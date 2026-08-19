@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -10,24 +10,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 186849419,
             "language": null,
             "last_commit": "2026-07-23T17:30:40Z",
             "owner": "nix-community",
             "repo": "awesome-nix",
-            "stars": 5392
+            "stars": 5393
           }
-        },
-        {
-          "node_type": "item",
-          "title": "Nix stuff",
-          "description": "Projects related to Nix and NixOS.",
-          "children": []
         }
       ],
       "title": "Related Resources"
     },
     {
-      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:",
+      "description": "Contributions are encouraged and always welcome! If you like to add or update projects, choose one of the following ways:\nIf you like to contribute to or share suggestions regarding the project metadata collection or markdown generation, please refer to the best-of-generator repository. If you like to create your own best-of list, we recommend to follow this guide.\nFor more information on how to add or update projects, please read the contribution guidelines. By participating in this project, you agree to abide by its Code of Conduct.",
       "items": [
         {
           "node_type": "item",
@@ -36,6 +31,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 981386382,
             "language": null,
             "last_commit": "2026-08-18T03:35:34Z",
             "owner": "tolkonepiu",
@@ -50,6 +46,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 981386382,
             "language": null,
             "last_commit": "2026-08-18T03:35:34Z",
             "owner": "tolkonepiu",
@@ -59,16 +56,12 @@
         }
       ],
       "title": "Contribution"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "License"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T02:51:34.042Z",
+    "last_updated": "2026-08-19T12:22:03.740Z",
     "original_repository": "tolkonepiu/best-of-nix",
+    "original_repository_id": 981386382,
     "original_repository_sha": "20974189d967a2a69e56aee9e3d84e84fd003d61",
     "enhanced_repository": "enhansome/enhansome-best-of-nix",
     "enhanced_repository_description": null,

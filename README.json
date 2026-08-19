@@ -14,7 +14,7 @@
             "last_commit": "2026-07-23T17:30:40Z",
             "owner": "nix-community",
             "repo": "awesome-nix",
-            "stars": 5384
+            "stars": 5392
           }
         },
         {
@@ -37,7 +37,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-17T01:08:28Z",
+            "last_commit": "2026-08-18T03:35:34Z",
             "owner": "tolkonepiu",
             "repo": "best-of-nix",
             "stars": 85
@@ -51,7 +51,7 @@
           "repo_info": {
             "archived": false,
             "language": null,
-            "last_commit": "2026-08-17T01:08:28Z",
+            "last_commit": "2026-08-18T03:35:34Z",
             "owner": "tolkonepiu",
             "repo": "best-of-nix",
             "stars": 85
@@ -67,9 +67,9 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T02:49:45.157Z",
+    "last_updated": "2026-08-19T02:51:34.042Z",
     "original_repository": "tolkonepiu/best-of-nix",
-    "original_repository_sha": "bf3cfd0c485c4e6af454a970a3d4d1676c0094e7",
+    "original_repository_sha": "20974189d967a2a69e56aee9e3d84e84fd003d61",
     "enhanced_repository": "enhansome/enhansome-best-of-nix",
     "enhanced_repository_description": null,
     "title": "Awesome best of nix with stars"

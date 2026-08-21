@@ -15,7 +15,7 @@
             "last_commit": "2026-07-23T17:30:40Z",
             "owner": "nix-community",
             "repo": "awesome-nix",
-            "stars": 5394
+            "stars": 5401
           }
         }
       ],
@@ -59,7 +59,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T02:50:38.139Z",
+    "last_updated": "2026-08-21T02:56:18.916Z",
     "original_repository": "tolkonepiu/best-of-nix",
     "original_repository_id": 981386382,
     "original_repository_sha": "20974189d967a2a69e56aee9e3d84e84fd003d61",

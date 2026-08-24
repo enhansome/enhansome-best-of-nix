@@ -33,7 +33,7 @@
             "archived": false,
             "id": 981386382,
             "language": null,
-            "last_commit": "2026-08-18T03:35:34Z",
+            "last_commit": "2026-08-24T01:10:05Z",
             "owner": "tolkonepiu",
             "repo": "best-of-nix",
             "stars": 86
@@ -48,7 +48,7 @@
             "archived": false,
             "id": 981386382,
             "language": null,
-            "last_commit": "2026-08-18T03:35:34Z",
+            "last_commit": "2026-08-24T01:10:05Z",
             "owner": "tolkonepiu",
             "repo": "best-of-nix",
             "stars": 86
@@ -59,7 +59,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T02:55:43.141Z",
+    "last_updated": "2026-08-24T02:57:07.533Z",
     "original_repository": "tolkonepiu/best-of-nix",
     "original_repository_id": 981386382,
     "original_repository_sha": "20974189d967a2a69e56aee9e3d84e84fd003d61",

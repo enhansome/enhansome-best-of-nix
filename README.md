@@ -74,7 +74,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 
 <details><summary><b><a href="https://github.com/NixOS/nix.dev">nix.dev</a></b> (🥇21 ·  ⭐ 3.9K) - Official documentation for getting things done with Nix. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary>
 
-* [GitHub](https://github.com/NixOS/nix.dev) ⭐ 3,925 | 🐛 153 | 🌐 TypeScript | 📅 2026-08-24 (👨‍💻 200 · 🔀 340 · 📋 330 - 40% open · ⏱️ 13.08.2026)
+* [GitHub](https://github.com/NixOS/nix.dev) ⭐ 3,925 | 🐛 153 | 🌐 TypeScript | 📅 2026-08-25 (👨‍💻 200 · 🔀 340 · 📋 330 - 40% open · ⏱️ 13.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/ryan4yin/nixos-and-flakes-book">NixOS & Flakes Book</a></b> (🥇20 ·  ⭐ 3.3K) - An unofficial and opinionated NixOS & Flakes book for beginners. <code><a href="http://bit.ly/3mSooSG">CC-BY-SA-4.0</a></code></summary>
@@ -137,7 +137,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 
 <details><summary><b><a href="https://github.com/ryan4yin/nix-config">ryan4yin/nix-config</a></b> (🥇20 ·  ⭐ 2K) - Nix config for both desktops(NixOS+macOS) and homelab servers(NixOS). <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ryan4yin/nix-config) ⭐ 2,029 | 🐛 0 | 🌐 Nix | 📅 2026-08-24 (👨‍💻 15 · 🔀 98 · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/ryan4yin/nix-config) ⭐ 2,029 | 🐛 0 | 🌐 Nix | 📅 2026-08-25 (👨‍💻 15 · 🔀 98 · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/dustinlyons/nixos-config">dustinlyons/nixos-config</a></b> (🥈18 ·  ⭐ 3.6K) - General purpose Nix configuration for macOS / NixOS (with starter templates). <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
@@ -167,12 +167,12 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/donovanglover/nix-config">donovanglover/nix-config</a></b> (🥉13 ·  ⭐ 390) - NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/donovanglover/nix-config) ⭐ 391 | 🐛 2 | 🌐 Nix | 📅 2026-05-14 (🔀 12 · 📋 5 - 20% open · ⏱️ 14.05.2026)
+* [GitHub](https://github.com/donovanglover/nix-config) ⭐ 392 | 🐛 2 | 🌐 Nix | 📅 2026-05-14 (🔀 12 · 📋 5 - 20% open · ⏱️ 14.05.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/NobbZ/nixos-config">NobbZ/nixos-config</a></b> (🥉13 ·  ⭐ 270) - An example of NixOS system configuration with home-manager integration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/NobbZ/nixos-config) ⭐ 271 | 🐛 6 | 🌐 Nix | 📅 2026-08-23 (👨‍💻 9 · 🔀 6 · 📋 15 - 33% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/NobbZ/nixos-config) ⭐ 271 | 🐛 6 | 🌐 Nix | 📅 2026-08-25 (👨‍💻 9 · 🔀 6 · 📋 15 - 33% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/juspay/nixos-unified-template">juspay/nixos-unified-template</a></b> (🥉12 ·  ⭐ 390) - A ready-made Nix configuration to manage either your Home environment or whole NixOS systems. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
@@ -195,7 +195,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 
 <details><summary><b><a href="https://github.com/NixOS/nixpkgs">nixpkgs</a></b> (🥇33 ·  ⭐ 26K) - Nix Packages collection & NixOS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/NixOS/nixpkgs) ⭐ 25,930 | 🐛 20,815 | 🌐 Nix | 📅 2026-08-25 (🔀 20K · 📋 58K - 16% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/NixOS/nixpkgs) ⭐ 25,932 | 🐛 20,824 | 🌐 Nix | 📅 2026-08-25 (🔀 20K · 📋 58K - 16% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/NixOS/nixos-search">NixOS Search</a></b> (🥇18 ·  ⭐ 590) - Search NixOS packages and options. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -215,7 +215,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/ekstranix/home-manager-option-search">Home Manager Option Search</a></b> (🥈13 ·  ⭐ 400) - Search through all 2000+ Home Manager options and read how to use them. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/ekstranix/home-manager-option-search) ⭐ 398 | 🐛 17 | 🌐 Ruby | 📅 2026-08-24 (👨‍💻 17 · 🔀 19 · 📋 41 - 41% open · ⏱️ 12.06.2026)
+* [GitHub](https://github.com/ekstranix/home-manager-option-search) ⭐ 398 | 🐛 17 | 🌐 Ruby | 📅 2026-08-25 (👨‍💻 17 · 🔀 19 · 📋 41 - 41% open · ⏱️ 12.06.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/3timeslazy/nix-search-tv">nix-search-tv</a></b> (🥉12 ·  ⭐ 280) - CLI fuzzy finder for packages and options from Nixpkgs, Home Manager, and more. <code><a href="http://bit.ly/2M0xdwT">❗️GPL-3.0</a></code></summary>
@@ -260,7 +260,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/nix-community/nixos-anywhere">nixos-anywhere</a></b> (🥈20 ·  ⭐ 3.4K) - Install NixOS everywhere via SSH. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nix-community/nixos-anywhere) ⭐ 3,398 | 🐛 104 | 🌐 Shell | 📅 2026-08-19 (👨‍💻 83 · 🔀 210 · 📋 220 - 35% open · ⏱️ 19.08.2026)
+* [GitHub](https://github.com/nix-community/nixos-anywhere) ⭐ 3,399 | 🐛 104 | 🌐 Shell | 📅 2026-08-19 (👨‍💻 83 · 🔀 210 · 📋 220 - 35% open · ⏱️ 19.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/nixos-images">nixos-images</a></b> (🥈20 ·  ⭐ 410 · 📉) - Automatically build (netboot) images for NixOS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -364,7 +364,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/nlewo/comin">comin</a></b> (🥇19 ·  ⭐ 980) - A deployment tool to continuously pull from Git repositories. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nlewo/comin) ⭐ 985 | 🐛 41 | 🌐 Go | 📅 2026-08-24 (👨‍💻 29 · 🔀 60 · 📋 70 - 42% open · ⏱️ 04.08.2026)
+* [GitHub](https://github.com/nlewo/comin) ⭐ 987 | 🐛 41 | 🌐 Go | 📅 2026-08-24 (👨‍💻 29 · 🔀 60 · 📋 70 - 42% open · ⏱️ 04.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/NixOS/nixops">NixOps</a></b> (🥈18 ·  ⭐ 2.2K · 💤) - The official Nix deployment tool, compatible with AWS, Hetzner, and more. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
@@ -374,7 +374,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/DBCDK/morph">morph</a></b> (🥈17 ·  ⭐ 1.1K) - A tool for managing existing NixOS hosts. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/DBCDK/morph) ⭐ 1,054 | 🐛 56 | 🌐 Go | 📅 2026-07-20 (👨‍💻 35 · 🔀 66 · 📋 110 - 46% open · ⏱️ 20.07.2026)
+* [GitHub](https://github.com/DBCDK/morph) ⭐ 1,055 | 🐛 56 | 🌐 Go | 📅 2026-07-20 (👨‍💻 35 · 🔀 66 · 📋 110 - 46% open · ⏱️ 20.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/hall/kubenix">KubeNix</a></b> (🥈17 ·  ⭐ 510) - A Kubernetes resource builder using Nix. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -389,7 +389,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/serokell/deploy-rs">deploy-rs</a></b> (🥈16 ·  ⭐ 2.3K) - A simple multi-profile Nix-flake deploy tool. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/serokell/deploy-rs) ⭐ 2,280 | 🐛 142 | 🌐 Rust | 📅 2026-08-24 (👨‍💻 50 · 🔀 160 · 📋 220 - 44% open · ⏱️ 10.08.2026)
+* [GitHub](https://github.com/serokell/deploy-rs) ⭐ 2,281 | 🐛 142 | 🌐 Rust | 📅 2026-08-24 (👨‍💻 50 · 🔀 160 · 📋 220 - 44% open · ⏱️ 10.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/tazjin/nixery">Nixery</a></b> (🥈15 ·  ⭐ 2K) - A Docker-compatible container registry which builds images ad-hoc via Nix. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -464,7 +464,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/SaumonNet/proxmox-nixos">proxmox-nixos</a></b> (🥉11 ·  ⭐ 1.4K) - The Proxmox Hypervisor, on NixOS. <code><a href="http://bit.ly/3pwmjO5">❗️AGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/SaumonNet/proxmox-nixos) ⭐ 1,369 | 🐛 45 | 🌐 Nix | 📅 2026-08-24 (👨‍💻 20 · 🔀 68 · 📋 82 - 37% open · ⏱️ 26.05.2026)
+* [GitHub](https://github.com/SaumonNet/proxmox-nixos) ⭐ 1,369 | 🐛 43 | 🌐 Nix | 📅 2026-08-25 (👨‍💻 20 · 🔀 68 · 📋 82 - 37% open · ⏱️ 26.05.2026)
 
 </details>
 <details><summary>Show 2 hidden projects...</summary>
@@ -493,7 +493,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/numtide/treefmt">treefmt</a></b> (🥇23 ·  ⭐ 1K) - One CLI to format the code tree, using formatters such as alejandra, prettier, etc. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/numtide/treefmt) ⭐ 1,050 | 🐛 68 | 🌐 Go | 📅 2026-08-21 (👨‍💻 24 · 🔀 54 · 📥 170K · 📦 8 · 📋 230 - 25% open · ⏱️ 16.08.2026)
+* [GitHub](https://github.com/numtide/treefmt) ⭐ 1,051 | 🐛 68 | 🌐 Go | 📅 2026-08-21 (👨‍💻 24 · 🔀 54 · 📥 170K · 📦 8 · 📋 230 - 25% open · ⏱️ 16.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/nh">nh</a></b> (🥇22 ·  ⭐ 3.1K) - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`. <code><a href="https://tldrlegal.com/search?q=EUPL-1.2">❗️EUPL-1.2</a></code></summary>
@@ -773,7 +773,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/utensils/mcp-nixos">MCP-NixOS</a></b> (🥈17 ·  ⭐ 800) - An MCP server that provides AI assistants with accurate information about NixOS packages, options, Home Manager, and.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/utensils/mcp-nixos) ⭐ 805 | 🐛 2 | 🌐 Python | 📅 2026-08-12 (👨‍💻 14 · 🔀 43 · 📋 53 - 1% open · ⏱️ 12.08.2026)
+* [GitHub](https://github.com/utensils/mcp-nixos) ⭐ 806 | 🐛 2 | 🌐 Python | 📅 2026-08-12 (👨‍💻 14 · 🔀 43 · 📋 53 - 1% open · ⏱️ 12.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/natsukium/mcp-servers-nix">mcp-servers-nix</a></b> (🥈14 ·  ⭐ 290) - A Nix-based configuration framework for Model Control Protocol (MCP) servers with ready-to-use packages. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -831,7 +831,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/nix-community/nixd">nixd</a></b> (🥇19 ·  ⭐ 1.5K) - Nix language server, based on Nix libraries. <code><a href="http://bit.ly/37RvQcA">❗️LGPL-3.0</a></code></summary>
 
-* [GitHub](https://github.com/nix-community/nixd) ⭐ 1,461 | 🐛 106 | 🌐 C++ | 📅 2026-08-24 (👨‍💻 61 · 🔀 75 · 📋 320 - 26% open · ⏱️ 10.08.2026)
+* [GitHub](https://github.com/nix-community/nixd) ⭐ 1,462 | 🐛 106 | 🌐 C++ | 📅 2026-08-24 (👨‍💻 61 · 🔀 75 · 📋 320 - 26% open · ⏱️ 10.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Mic92/nix-update">nix-update</a></b> (🥇19 ·  ⭐ 870) - Update versions/source hashes of nix packages. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -841,7 +841,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/nix-community/harmonia">harmonia</a></b> (🥇19 ·  ⭐ 590) - Nix binary cache implemented in Rust. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/nix-community/harmonia) ⭐ 590 | 🐛 8 | 🌐 Rust | 📅 2026-08-23 (👨‍💻 33 · 🔀 35 · 📦 11 · 📋 32 - 6% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/nix-community/harmonia) ⭐ 591 | 🐛 8 | 🌐 Rust | 📅 2026-08-23 (👨‍💻 33 · 🔀 35 · 📦 11 · 📋 32 - 6% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/Mic92/nix-fast-build">nix-fast-build</a></b> (🥇19 ·  ⭐ 530) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -851,7 +851,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/oxalica/nil">nil</a></b> (🥈18 ·  ⭐ 1.9K) - NIx Language server, an incremental analysis assistent for writing in Nix. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/oxalica/nil) ⭐ 1,898 | 🐛 33 | 🌐 Rust | 📅 2026-07-26 (👨‍💻 35 · 🔀 71 · 📋 120 - 24% open · ⏱️ 26.07.2026)
+* [GitHub](https://github.com/oxalica/nil) ⭐ 1,899 | 🐛 33 | 🌐 Rust | 📅 2026-07-26 (👨‍💻 35 · 🔀 71 · 📋 120 - 24% open · ⏱️ 26.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/nix-ld">nix-ld</a></b> (🥈18 ·  ⭐ 1.7K) - Run unpatched dynamic binaries on NixOS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -861,7 +861,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/cachix/git-hooks.nix">git-hooks.nix</a></b> (🥈18 ·  ⭐ 860) - Seamless integration of git hooks with Nix. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
 
-* [GitHub](https://github.com/cachix/git-hooks.nix) ⭐ 857 | 🐛 91 | 🌐 Nix | 📅 2026-08-22 (👨‍💻 170 · 🔀 230 · 📋 210 - 31% open · ⏱️ 22.08.2026)
+* [GitHub](https://github.com/cachix/git-hooks.nix) ⭐ 858 | 🐛 91 | 🌐 Nix | 📅 2026-08-22 (👨‍💻 170 · 🔀 230 · 📋 210 - 31% open · ⏱️ 22.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/juspay/services-flake">services-flake</a></b> (🥈17 ·  ⭐ 760) - A NixOS-like service configuration framework for Nix flakes. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -876,7 +876,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/zhaofengli/attic">attic</a></b> (🥈16 ·  ⭐ 2K) - Multi-tenant Nix Binary Cache. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/zhaofengli/attic) ⭐ 2,032 | 🐛 163 | 🌐 Rust | 📅 2026-08-22 (👨‍💻 41 · 🔀 170 · 📋 200 - 64% open · ⏱️ 06.07.2026)
+* [GitHub](https://github.com/zhaofengli/attic) ⭐ 2,033 | 🐛 163 | 🌐 Rust | 📅 2026-08-22 (👨‍💻 41 · 🔀 170 · 📋 200 - 64% open · ⏱️ 06.07.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nmattia/niv">niv</a></b> (🥈16 ·  ⭐ 1.9K) - Easy dependency management for Nix projects with package pinning. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -921,7 +921,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/aksiksi/compose2nix">compose2nix</a></b> (🥈15 ·  ⭐ 890) - Generate a NixOS config from a Docker Compose project. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/aksiksi/compose2nix) ⭐ 890 | 🐛 13 | 🌐 Go | 📅 2026-08-09 (👨‍💻 8 · 🔀 20 · 📋 56 - 12% open · ⏱️ 09.08.2026)
+* [GitHub](https://github.com/aksiksi/compose2nix) ⭐ 890 | 🐛 13 | 🌐 Go | 📅 2026-08-25 (👨‍💻 8 · 🔀 20 · 📋 56 - 12% open · ⏱️ 09.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/numtide/treefmt-nix">treefmt-nix</a></b> (🥈15 ·  ⭐ 640) - A formatter that allows formatting all your project files with a single command, all via a single `.nix` file. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1174,7 +1174,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 
 <details><summary><b><a href="https://github.com/nickel-lang/nickel">nickel</a></b> (🥇26 ·  ⭐ 3K) - Better configuration for less. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nickel-lang/nickel) ⭐ 2,979 | 🐛 158 | 🌐 Rust | 📅 2026-08-24 (👨‍💻 98 · 🔀 120 · 📥 170K · 📋 710 - 19% open · ⏱️ 09.08.2026)
+* [GitHub](https://github.com/nickel-lang/nickel) ⭐ 2,980 | 🐛 158 | 🌐 Rust | 📅 2026-08-24 (👨‍💻 98 · 🔀 120 · 📥 170K · 📋 710 - 19% open · ⏱️ 09.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/input-output-hk/haskell.nix">haskell.nix</a></b> (🥇25 ·  ⭐ 630) - Alternative Haskell Infrastructure for Nixpkgs. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1184,7 +1184,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/ipetkov/crane">crane</a></b> (🥇20 ·  ⭐ 1.4K) - A Nix library for building Cargo projects with incremental artifact caching. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/ipetkov/crane) ⭐ 1,446 | 🐛 40 | 🌐 Nix | 📅 2026-08-21 (👨‍💻 77 · 🔀 140 · 📋 320 - 10% open · ⏱️ 21.08.2026)
+* [GitHub](https://github.com/ipetkov/crane) ⭐ 1,447 | 🐛 40 | 🌐 Nix | 📅 2026-08-21 (👨‍💻 77 · 🔀 140 · 📋 320 - 10% open · ⏱️ 21.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/crate2nix">crate2nix</a></b> (🥇20 ·  ⭐ 520) - rebuild only changed crates in CI with crate2nix and nix. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1194,7 +1194,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/oxalica/rust-overlay">rust-overlay</a></b> (🥇19 ·  ⭐ 1.5K) - Pure and reproducible nix overlay of binary distributed Rust toolchains. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/oxalica/rust-overlay) ⭐ 1,548 | 🐛 23 | 🌐 Nix | 📅 2026-08-24 (👨‍💻 28 · 🔀 86 · 📋 180 - 9% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/oxalica/rust-overlay) ⭐ 1,548 | 🐛 23 | 🌐 Nix | 📅 2026-08-25 (👨‍💻 28 · 🔀 86 · 📋 180 - 9% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/fenix">fenix</a></b> (🥈18 ·  ⭐ 1.1K) - Rust toolchains and Rust analyzer nightly for nix. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
@@ -1224,7 +1224,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/90-008/nix-cargo-integration">nix-cargo-integration</a></b> (🥈16 ·  ⭐ 220) - Library to easily and effortlessly integrate Cargo projects with Nix. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/90-008/nix-cargo-integration) ⭐ 217 | 🐛 5 | 🌐 Nix | 📅 2026-08-24 (👨‍💻 16 · 🔀 26 · 📋 89 - 5% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/90-008/nix-cargo-integration) ⭐ 217 | 🐛 5 | 🌐 Nix | 📅 2026-08-25 (👨‍💻 16 · 🔀 26 · 📋 89 - 5% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/naersk">naersk</a></b> (🥈15 ·  ⭐ 1K) - Build Rust packages directly from `Cargo.lock`. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1368,7 +1368,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 
 <details><summary><b><a href="https://github.com/nix-community/home-manager">Home Manager</a></b> (🥇27 ·  ⭐ 10K) - Manage your user configuration just like NixOS. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nix-community/home-manager) ⭐ 10,280 | 🐛 991 | 🌐 Nix | 📅 2026-08-24 (👨‍💻 1.7K · 🔀 2.4K · 📋 3.3K - 21% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/nix-community/home-manager) ⭐ 10,280 | 🐛 992 | 🌐 Nix | 📅 2026-08-24 (👨‍💻 1.7K · 🔀 2.4K · 📋 3.3K - 21% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/NixOS-WSL">NixOS-WSL</a></b> (🥇25 ·  ⭐ 3.1K) - Modules for running NixOS on the Windows Subsystem for Linux. <code><a href="http://bit.ly/3nYMfla">Apache-2</a></code></summary>
@@ -1428,7 +1428,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/nix-community/nixos-facter">nixos-facter</a></b> (🥈15 ·  ⭐ 700) - Declarative hardware configuration for NixOS. <code>❗Unlicensed</code></summary>
 
-* [GitHub](https://github.com/nix-community/nixos-facter) ⭐ 701 | 🐛 70 | 🌐 Go | 📅 2026-08-24 (👨‍💻 15 · 🔀 20 · 📋 120 - 50% open · ⏱️ 22.08.2026)
+* [GitHub](https://github.com/nix-community/nixos-facter) ⭐ 701 | 🐛 70 | 🌐 Go | 📅 2026-08-25 (👨‍💻 15 · 🔀 20 · 📋 120 - 50% open · ⏱️ 22.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/feel-co/hjem">hjem</a></b> (🥈15 ·  ⭐ 600) - Streamlined, elegant $HOME management with Nix. <code><a href="http://bit.ly/3postzC">MPL-2.0</a></code></summary>
@@ -1443,7 +1443,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/nix-community/impermanence">impermanence</a></b> (🥉14 ·  ⭐ 1.9K · 💤) - Lets you choose what files and directories you want to keep between reboots. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nix-community/impermanence) ⭐ 1,873 | 🐛 106 | 🌐 Nix | 📅 2026-01-27 (👨‍💻 37 · 🔀 130 · 📋 200 - 40% open · ⏱️ 27.01.2026)
+* [GitHub](https://github.com/nix-community/impermanence) ⭐ 1,874 | 🐛 106 | 🌐 Nix | 📅 2026-01-27 (👨‍💻 37 · 🔀 130 · 📋 200 - 40% open · ⏱️ 27.01.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/oddlama/nix-topology">nix-topology</a></b> (🥉14 ·  ⭐ 990) - Generate infrastructure and network diagrams directly from your NixOS configuration. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1574,7 +1574,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 
 <details><summary><b><a href="https://github.com/nix-community/NUR">NUR</a></b> (🥇24 ·  ⭐ 1.9K) - Nix User Repositories. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/nix-community/NUR) ⭐ 1,935 | 🐛 37 | 🌐 Python | 📅 2026-08-25 (👨‍💻 670 · 🔀 530 · 📋 140 - 16% open · ⏱️ 24.08.2026)
+* [GitHub](https://github.com/nix-community/NUR) ⭐ 1,935 | 🐛 36 | 🌐 Python | 📅 2026-08-25 (👨‍💻 670 · 🔀 530 · 📋 140 - 16% open · ⏱️ 24.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/emacs-overlay">emacs-overlay</a></b> (🥇19 ·  ⭐ 640) - Bleeding edge Emacs overlay. <code>❗Unlicensed</code></summary>
@@ -1584,7 +1584,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 </details>
 <details><summary><b><a href="https://github.com/chaotic-cx/nyx">chaotic-nyx</a></b> (🥈18 ·  ⭐ 750) - Daily bumped bleeding edge packages like `mesa_git` & others that arent yet in Nixpkgs. Created by the makers of.. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/chaotic-cx/nyx) ⭐ 749 | 🐛 11 | 🌐 Nix | 📅 2026-08-25 (👨‍💻 57 · 🔀 80 · 📋 140 - 2% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/chaotic-cx/nyx) ⭐ 749 | 🐛 6 | 🌐 Nix | 📅 2026-08-25 (👨‍💻 57 · 🔀 80 · 📋 140 - 2% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/nixpkgs-wayland">nixpkgs-wayland</a></b> (🥈18 ·  ⭐ 630) - Bleeding-edge Wayland packages. <code>❗Unlicensed</code></summary>
@@ -1658,7 +1658,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 
 <details><summary><b><a href="https://github.com/nix-community/vulnix">vulnix</a></b> (🥇18 ·  ⭐ 830) - Vulnerability (CVE) scanner for Nix/NixOS. <code><a href="http://bit.ly/3aKzpTv">BSD-3</a></code></summary>
 
-* [GitHub](https://github.com/nix-community/vulnix) ⭐ 836 | 🐛 21 | 🌐 Python | 📅 2026-08-17 (👨‍💻 29 · 🔀 47 · 📦 3 · 📋 75 - 24% open · ⏱️ 11.08.2026)
+* [GitHub](https://github.com/nix-community/vulnix) ⭐ 836 | 🐛 19 | 🌐 Python | 📅 2026-08-25 (👨‍💻 29 · 🔀 47 · 📦 3 · 📋 75 - 24% open · ⏱️ 11.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/NixOS/nix-security-tracker">nix-security-tracker</a></b> (🥇17 ·  ⭐ 110) - Web service for managing information on vulnerabilities in software distributed through Nixpkgs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
@@ -1735,7 +1735,7 @@ This curated list contains 410 awesome open-source projects with a total of 300K
 
 <details><summary><b><a href="https://github.com/NotAShelf/nvf">nvf</a></b> (🥇24 ·  ⭐ 1.6K) - Highly modular, configurable, extensible and easy to use Neovim configuration in Nix. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>
 
-* [GitHub](https://github.com/NotAShelf/nvf) ⭐ 1,609 | 🐛 123 | 🌐 Nix | 📅 2026-08-23 (👨‍💻 160 · 🔀 230 · 📋 500 - 18% open · ⏱️ 23.08.2026)
+* [GitHub](https://github.com/NotAShelf/nvf) ⭐ 1,610 | 🐛 123 | 🌐 Nix | 📅 2026-08-23 (👨‍💻 160 · 🔀 230 · 📋 500 - 18% open · ⏱️ 23.08.2026)
 
 </details>
 <details><summary><b><a href="https://github.com/nix-community/nixvim">NixVim</a></b> (🥇21 ·  ⭐ 2.9K · 📉) - A NeoVim distribution built with Nix modules and Nixpkgs. <code><a href="http://bit.ly/34MBwT8">MIT</a></code></summary>

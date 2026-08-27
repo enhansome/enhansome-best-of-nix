@@ -15,7 +15,7 @@
             "last_commit": "2026-08-25T03:00:55Z",
             "owner": "NixOS",
             "repo": "nix.dev",
-            "stars": 3925
+            "stars": 3928
           }
         }
       ],
@@ -36,7 +36,7 @@
             "last_commit": "2026-08-05T03:31:54Z",
             "owner": "ryan4yin",
             "repo": "nixos-and-flakes-book",
-            "stars": 3261
+            "stars": 3264
           }
         }
       ],
@@ -75,10 +75,10 @@
             "archived": false,
             "id": 563020534,
             "language": "MDX",
-            "last_commit": "2026-08-15T01:58:33Z",
+            "last_commit": "2026-08-26T18:07:17Z",
             "owner": "DeterminateSystems",
             "repo": "zero-to-nix",
-            "stars": 1271
+            "stars": 1272
           }
         }
       ],
@@ -204,7 +204,7 @@
             "last_commit": "2025-06-27T01:56:19Z",
             "owner": "mikeroyal",
             "repo": "NixOS-Guide",
-            "stars": 1131
+            "stars": 1133
           }
         },
         {
@@ -297,10 +297,10 @@
             "archived": false,
             "id": 631333073,
             "language": "Nix",
-            "last_commit": "2026-08-25T09:31:29Z",
+            "last_commit": "2026-08-27T08:31:45Z",
             "owner": "ryan4yin",
             "repo": "nix-config",
-            "stars": 2029
+            "stars": 2030
           }
         }
       ],
@@ -321,7 +321,7 @@
             "last_commit": "2026-08-13T18:07:19Z",
             "owner": "dustinlyons",
             "repo": "nixos-config",
-            "stars": 3601
+            "stars": 3603
           }
         }
       ],
@@ -339,7 +339,7 @@
             "archived": false,
             "id": 8497338,
             "language": "Shell",
-            "last_commit": "2026-07-22T05:29:53Z",
+            "last_commit": "2026-08-26T21:04:54Z",
             "owner": "hlissner",
             "repo": "dotfiles",
             "stars": 1938
@@ -363,7 +363,7 @@
             "last_commit": "2026-06-19T02:37:58Z",
             "owner": "mitchellh",
             "repo": "nixos-config",
-            "stars": 3081
+            "stars": 3082
           }
         }
       ],
@@ -381,7 +381,7 @@
             "archived": false,
             "id": 276564920,
             "language": "Nix",
-            "last_commit": "2026-08-25T11:35:09Z",
+            "last_commit": "2026-08-26T20:18:58Z",
             "owner": "kclejeune",
             "repo": "system",
             "stars": 529
@@ -444,7 +444,7 @@
             "archived": false,
             "id": 308058804,
             "language": "Nix",
-            "last_commit": "2026-08-25T03:39:06Z",
+            "last_commit": "2026-08-26T03:44:47Z",
             "owner": "NobbZ",
             "repo": "nixos-config",
             "stars": 271
@@ -507,10 +507,10 @@
             "archived": false,
             "id": 4542716,
             "language": "Nix",
-            "last_commit": "2026-08-26T02:55:25Z",
+            "last_commit": "2026-08-27T11:18:55Z",
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 25943
+            "stars": 25955
           }
         }
       ],
@@ -528,10 +528,10 @@
             "archived": false,
             "id": 250712577,
             "language": "Elm",
-            "last_commit": "2026-08-25T21:00:12Z",
+            "last_commit": "2026-08-27T06:01:35Z",
             "owner": "NixOS",
             "repo": "nixos-search",
-            "stars": 590
+            "stars": 592
           }
         }
       ],
@@ -552,7 +552,7 @@
             "last_commit": "2026-08-18T16:02:20Z",
             "owner": "nix-community",
             "repo": "noogle",
-            "stars": 590
+            "stars": 591
           }
         }
       ],
@@ -591,7 +591,7 @@
             "archived": false,
             "id": 444581688,
             "language": "Ruby",
-            "last_commit": "2026-08-25T04:50:04Z",
+            "last_commit": "2026-08-26T04:52:00Z",
             "owner": "ekstranix",
             "repo": "home-manager-option-search",
             "stars": 398
@@ -657,7 +657,7 @@
             "last_commit": "2026-08-02T08:41:22Z",
             "owner": "water-sucks",
             "repo": "optnix",
-            "stars": 107
+            "stars": 108
           }
         }
       ],
@@ -693,7 +693,7 @@
             "last_commit": "2024-05-15T22:15:48Z",
             "owner": "lf-",
             "repo": "nix-doc",
-            "stars": 227
+            "stars": 228
           }
         },
         {
@@ -729,7 +729,7 @@
             "last_commit": "2026-08-23T00:03:14Z",
             "owner": "DeterminateSystems",
             "repo": "nix-installer",
-            "stars": 3676
+            "stars": 3677
           }
         }
       ],
@@ -747,10 +747,10 @@
             "archived": false,
             "id": 438066095,
             "language": "Nix",
-            "last_commit": "2026-08-23T20:43:13Z",
+            "last_commit": "2026-08-26T13:12:25Z",
             "owner": "nix-community",
             "repo": "nixos-apple-silicon",
-            "stars": 1612
+            "stars": 1613
           }
         }
       ],
@@ -768,10 +768,10 @@
             "archived": false,
             "id": 563831285,
             "language": "Shell",
-            "last_commit": "2026-08-19T07:31:10Z",
+            "last_commit": "2026-08-26T07:24:57Z",
             "owner": "nix-community",
             "repo": "nixos-anywhere",
-            "stars": 3402
+            "stars": 3405
           }
         }
       ],
@@ -789,7 +789,7 @@
             "archived": false,
             "id": 375573623,
             "language": "Rust",
-            "last_commit": "2026-08-20T10:37:03Z",
+            "last_commit": "2026-08-27T10:33:43Z",
             "owner": "nix-community",
             "repo": "nixos-images",
             "stars": 407
@@ -810,10 +810,10 @@
             "archived": false,
             "id": 336990093,
             "language": "Nix",
-            "last_commit": "2026-08-24T00:48:12Z",
+            "last_commit": "2026-08-27T06:21:34Z",
             "owner": "DavHau",
             "repo": "nix-portable",
-            "stars": 1383
+            "stars": 1393
           }
         }
       ],
@@ -852,7 +852,7 @@
             "archived": false,
             "id": 486343816,
             "language": "Nix",
-            "last_commit": "2026-08-25T08:58:38Z",
+            "last_commit": "2026-08-26T09:01:19Z",
             "owner": "astro",
             "repo": "nix-openwrt-imagebuilder",
             "stars": 266
@@ -876,7 +876,7 @@
             "last_commit": "2026-03-22T21:54:35Z",
             "owner": "elitak",
             "repo": "nixos-infect",
-            "stars": 1920
+            "stars": 1921
           }
         }
       ],
@@ -897,7 +897,7 @@
             "last_commit": "2026-01-30T00:43:05Z",
             "owner": "Robertof",
             "repo": "nixos-docker-sd-image-builder",
-            "stars": 230
+            "stars": 231
           }
         }
       ],
@@ -1023,7 +1023,7 @@
             "archived": false,
             "id": 418625766,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T15:31:56Z",
+            "last_commit": "2026-08-26T17:20:07Z",
             "owner": "DeterminateSystems",
             "repo": "update-flake-lock",
             "stars": 401
@@ -1128,7 +1128,7 @@
             "archived": false,
             "id": 210179484,
             "language": "Rust",
-            "last_commit": "2026-08-24T11:21:59Z",
+            "last_commit": "2026-08-27T08:31:52Z",
             "owner": "saschagrunert",
             "repo": "kubernix",
             "stars": 823
@@ -1152,7 +1152,7 @@
             "last_commit": "2026-08-20T20:35:55Z",
             "owner": "nix-community",
             "repo": "colmena",
-            "stars": 2325
+            "stars": 2326
           }
         }
       ],
@@ -1173,7 +1173,7 @@
             "last_commit": "2026-08-24T05:27:21Z",
             "owner": "nlewo",
             "repo": "comin",
-            "stars": 987
+            "stars": 989
           }
         }
       ],
@@ -1194,7 +1194,7 @@
             "last_commit": "2025-12-28T16:45:15Z",
             "owner": "NixOS",
             "repo": "nixops",
-            "stars": 2190
+            "stars": 2191
           }
         }
       ],
@@ -1215,7 +1215,7 @@
             "last_commit": "2026-07-20T07:42:21Z",
             "owner": "DBCDK",
             "repo": "morph",
-            "stars": 1056
+            "stars": 1057
           }
         }
       ],
@@ -1236,7 +1236,7 @@
             "last_commit": "2026-08-24T05:55:39Z",
             "owner": "hall",
             "repo": "kubenix",
-            "stars": 510
+            "stars": 511
           }
         }
       ],
@@ -1278,7 +1278,7 @@
             "last_commit": "2026-08-24T02:00:46Z",
             "owner": "serokell",
             "repo": "deploy-rs",
-            "stars": 2283
+            "stars": 2285
           }
         }
       ],
@@ -1299,7 +1299,7 @@
             "last_commit": "2026-04-08T08:49:31Z",
             "owner": "tazjin",
             "repo": "nixery",
-            "stars": 2017
+            "stars": 2018
           }
         }
       ],
@@ -1320,7 +1320,7 @@
             "last_commit": "2026-04-06T15:03:51Z",
             "owner": "nlewo",
             "repo": "nix2container",
-            "stars": 899
+            "stars": 900
           }
         }
       ],
@@ -1341,7 +1341,7 @@
             "last_commit": "2026-08-02T00:57:58Z",
             "owner": "nixops4",
             "repo": "nixops4",
-            "stars": 925
+            "stars": 926
           }
         }
       ],
@@ -1515,7 +1515,7 @@
             "last_commit": "2026-08-24T19:37:32Z",
             "owner": "microvm-nix",
             "repo": "microvm.nix",
-            "stars": 2881
+            "stars": 2884
           }
         }
       ],
@@ -1620,7 +1620,7 @@
             "last_commit": "2026-08-25T03:42:13Z",
             "owner": "SaumonNet",
             "repo": "proxmox-nixos",
-            "stars": 1370
+            "stars": 1371
           }
         }
       ],
@@ -1677,7 +1677,7 @@
             "last_commit": "2026-07-27T01:22:23Z",
             "owner": "NixOS",
             "repo": "patchelf",
-            "stars": 4245
+            "stars": 4248
           }
         }
       ],
@@ -1698,7 +1698,7 @@
             "last_commit": "2026-08-25T20:23:57Z",
             "owner": "NixOS",
             "repo": "nixfmt",
-            "stars": 1593
+            "stars": 1592
           }
         }
       ],
@@ -1716,7 +1716,7 @@
             "archived": false,
             "id": 322563105,
             "language": "Go",
-            "last_commit": "2026-08-25T15:40:40Z",
+            "last_commit": "2026-08-27T08:27:55Z",
             "owner": "numtide",
             "repo": "treefmt",
             "stars": 1052
@@ -1737,10 +1737,10 @@
             "archived": false,
             "id": 457079050,
             "language": "Rust",
-            "last_commit": "2026-08-25T16:24:57Z",
+            "last_commit": "2026-08-26T07:44:10Z",
             "owner": "nix-community",
             "repo": "nh",
-            "stars": 3137
+            "stars": 3143
           }
         }
       ],
@@ -1821,10 +1821,10 @@
             "archived": false,
             "id": 590605980,
             "language": "Rust",
-            "last_commit": "2026-08-24T08:55:15Z",
+            "last_commit": "2026-08-26T08:55:10Z",
             "owner": "nix-community",
             "repo": "nix-init",
-            "stars": 1456
+            "stars": 1457
           }
         }
       ],
@@ -1905,7 +1905,7 @@
             "archived": false,
             "id": 347841046,
             "language": "C++",
-            "last_commit": "2026-08-24T17:03:35Z",
+            "last_commit": "2026-08-27T05:26:38Z",
             "owner": "NixOS",
             "repo": "nix-eval-jobs",
             "stars": 268
@@ -1929,7 +1929,7 @@
             "last_commit": "2026-08-24T08:25:57Z",
             "owner": "manic-systems",
             "repo": "dix",
-            "stars": 338
+            "stars": 341
           }
         }
       ],
@@ -1971,7 +1971,7 @@
             "last_commit": "2026-08-24T15:53:33Z",
             "owner": "nix-community",
             "repo": "nurl",
-            "stars": 775
+            "stars": 777
           }
         }
       ],
@@ -1989,7 +1989,7 @@
             "archived": false,
             "id": 642848926,
             "language": "Rust",
-            "last_commit": "2026-08-16T00:18:32Z",
+            "last_commit": "2026-08-26T13:08:22Z",
             "owner": "DeterminateSystems",
             "repo": "flake-checker",
             "stars": 348
@@ -2013,7 +2013,7 @@
             "last_commit": "2026-07-26T11:45:26Z",
             "owner": "oppiliappan",
             "repo": "statix",
-            "stars": 939
+            "stars": 940
           }
         }
       ],
@@ -2076,7 +2076,7 @@
             "last_commit": "2026-08-02T08:46:39Z",
             "owner": "nix-community",
             "repo": "nixos-cli",
-            "stars": 392
+            "stars": 393
           }
         }
       ],
@@ -2160,7 +2160,7 @@
             "last_commit": "2026-08-19T23:33:23Z",
             "owner": "nix-community",
             "repo": "nix-melt",
-            "stars": 310
+            "stars": 311
           }
         }
       ],
@@ -2202,7 +2202,7 @@
             "last_commit": "2026-07-15T12:21:38Z",
             "owner": "thiagokokada",
             "repo": "nix-alien",
-            "stars": 867
+            "stars": 868
           }
         }
       ],
@@ -2412,7 +2412,7 @@
             "last_commit": "2025-09-19T09:58:16Z",
             "owner": "edolstra",
             "repo": "dwarffs",
-            "stars": 218
+            "stars": 219
           }
         }
       ],
@@ -2538,7 +2538,7 @@
             "last_commit": "2026-06-25T16:20:55Z",
             "owner": "fzakaria",
             "repo": "nix-auto-follow",
-            "stars": 112
+            "stars": 113
           }
         }
       ],
@@ -2580,7 +2580,7 @@
             "last_commit": "2025-09-04T14:16:43Z",
             "owner": "antithesishq",
             "repo": "madness",
-            "stars": 309
+            "stars": 310
           }
         }
       ],
@@ -3021,10 +3021,10 @@
             "archived": false,
             "id": 1022026685,
             "language": "Nix",
-            "last_commit": "2026-08-26T00:38:00Z",
+            "last_commit": "2026-08-27T07:15:42Z",
             "owner": "numtide",
             "repo": "llm-agents.nix",
-            "stars": 1827
+            "stars": 1832
           }
         }
       ],
@@ -3045,7 +3045,7 @@
             "last_commit": "2026-08-12T17:12:41Z",
             "owner": "utensils",
             "repo": "mcp-nixos",
-            "stars": 808
+            "stars": 809
           }
         }
       ],
@@ -3063,7 +3063,7 @@
             "archived": false,
             "id": 961533901,
             "language": "Nix",
-            "last_commit": "2026-08-25T18:21:58Z",
+            "last_commit": "2026-08-26T12:26:02Z",
             "owner": "natsukium",
             "repo": "mcp-servers-nix",
             "stars": 290
@@ -3084,7 +3084,7 @@
             "archived": false,
             "id": 1115522538,
             "language": "Nix",
-            "last_commit": "2026-08-26T01:25:57Z",
+            "last_commit": "2026-08-27T08:10:43Z",
             "owner": "YPares",
             "repo": "rigup.nix",
             "stars": 86
@@ -3108,7 +3108,7 @@
             "last_commit": "2026-08-10T16:30:59Z",
             "owner": "Kyure-A",
             "repo": "agent-skills-nix",
-            "stars": 215
+            "stars": 216
           }
         }
       ],
@@ -3150,7 +3150,7 @@
             "last_commit": "2026-08-18T14:17:04Z",
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12303
+            "stars": 12306
           }
         }
       ],
@@ -3168,10 +3168,10 @@
             "archived": false,
             "id": 555988330,
             "language": "Rust",
-            "last_commit": "2026-08-26T00:07:58Z",
+            "last_commit": "2026-08-27T10:32:31Z",
             "owner": "cachix",
             "repo": "devenv",
-            "stars": 7380
+            "stars": 7418
           }
         }
       ],
@@ -3189,10 +3189,10 @@
             "archived": false,
             "id": 581225647,
             "language": "Rust",
-            "last_commit": "2026-08-25T23:01:04Z",
+            "last_commit": "2026-08-27T10:49:49Z",
             "owner": "flox",
             "repo": "flox",
-            "stars": 4104
+            "stars": 4105
           }
         }
       ],
@@ -3210,10 +3210,10 @@
             "archived": false,
             "id": 211264092,
             "language": "Shell",
-            "last_commit": "2026-08-24T14:52:58Z",
+            "last_commit": "2026-08-26T13:55:13Z",
             "owner": "nix-community",
             "repo": "nix-direnv",
-            "stars": 2761
+            "stars": 2762
           }
         }
       ],
@@ -3234,7 +3234,7 @@
             "last_commit": "2026-08-22T09:56:34Z",
             "owner": "Mic92",
             "repo": "nixpkgs-review",
-            "stars": 636
+            "stars": 637
           }
         }
       ],
@@ -3255,7 +3255,7 @@
             "last_commit": "2026-08-24T10:06:02Z",
             "owner": "nix-community",
             "repo": "nixd",
-            "stars": 1462
+            "stars": 1465
           }
         }
       ],
@@ -3276,7 +3276,7 @@
             "last_commit": "2026-08-23T06:16:27Z",
             "owner": "Mic92",
             "repo": "nix-update",
-            "stars": 868
+            "stars": 869
           }
         }
       ],
@@ -3294,7 +3294,7 @@
             "archived": false,
             "id": 592082640,
             "language": "Rust",
-            "last_commit": "2026-08-23T16:29:54Z",
+            "last_commit": "2026-08-26T13:43:28Z",
             "owner": "nix-community",
             "repo": "harmonia",
             "stars": 594
@@ -3318,7 +3318,7 @@
             "last_commit": "2026-08-23T13:37:58Z",
             "owner": "Mic92",
             "repo": "nix-fast-build",
-            "stars": 534
+            "stars": 537
           }
         }
       ],
@@ -3339,7 +3339,7 @@
             "last_commit": "2026-07-26T01:21:42Z",
             "owner": "oxalica",
             "repo": "nil",
-            "stars": 1900
+            "stars": 1901
           }
         }
       ],
@@ -3378,7 +3378,7 @@
             "archived": false,
             "id": 202728276,
             "language": "Nix",
-            "last_commit": "2026-08-22T18:55:39Z",
+            "last_commit": "2026-08-26T18:48:38Z",
             "owner": "cachix",
             "repo": "git-hooks.nix",
             "stars": 859
@@ -3444,7 +3444,7 @@
             "last_commit": "2026-08-22T18:43:24Z",
             "owner": "zhaofengli",
             "repo": "attic",
-            "stars": 2033
+            "stars": 2037
           }
         }
       ],
@@ -3528,7 +3528,7 @@
             "last_commit": "2026-04-29T23:16:46Z",
             "owner": "nix-community",
             "repo": "lorri",
-            "stars": 870
+            "stars": 871
           }
         }
       ],
@@ -3570,7 +3570,7 @@
             "last_commit": "2026-08-24T08:19:48Z",
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1450
+            "stars": 1451
           }
         }
       ],
@@ -3633,7 +3633,7 @@
             "last_commit": "2026-08-25T03:50:04Z",
             "owner": "aksiksi",
             "repo": "compose2nix",
-            "stars": 890
+            "stars": 892
           }
         }
       ],
@@ -3693,7 +3693,7 @@
             "archived": false,
             "id": 144383474,
             "language": "Nix",
-            "last_commit": "2026-07-07T19:45:49Z",
+            "last_commit": "2026-08-26T20:36:44Z",
             "owner": "nix-community",
             "repo": "rnix-parser",
             "stars": 485
@@ -3714,7 +3714,7 @@
             "archived": false,
             "id": 177118018,
             "language": "JavaScript",
-            "last_commit": "2026-08-23T13:12:32Z",
+            "last_commit": "2026-08-26T17:59:48Z",
             "owner": "nix-community",
             "repo": "tree-sitter-nix",
             "stars": 237
@@ -3738,7 +3738,7 @@
             "last_commit": "2026-08-24T04:04:24Z",
             "owner": "a-kenji",
             "repo": "flake-edit",
-            "stars": 79
+            "stars": 80
           }
         }
       ],
@@ -3822,7 +3822,7 @@
             "last_commit": "2026-08-24T12:58:01Z",
             "owner": "nix-community",
             "repo": "flakelight",
-            "stars": 409
+            "stars": 410
           }
         }
       ],
@@ -3906,7 +3906,7 @@
             "last_commit": "2026-08-23T21:47:48Z",
             "owner": "nix-community",
             "repo": "robotnix",
-            "stars": 800
+            "stars": 801
           }
         }
       ],
@@ -3969,7 +3969,7 @@
             "last_commit": "2026-08-24T16:03:35Z",
             "owner": "nix-community",
             "repo": "namaka",
-            "stars": 144
+            "stars": 145
           }
         }
       ],
@@ -4008,7 +4008,7 @@
             "archived": false,
             "id": 341696812,
             "language": "Nix",
-            "last_commit": "2026-08-26T01:21:19Z",
+            "last_commit": "2026-08-27T07:23:29Z",
             "owner": "a-kenji",
             "repo": "zellij-nix",
             "stars": 61
@@ -4179,7 +4179,7 @@
             "last_commit": "2025-11-28T22:03:10Z",
             "owner": "jordanisaacs",
             "repo": "kernel-development-flake",
-            "stars": 190
+            "stars": 191
           }
         }
       ],
@@ -4221,7 +4221,7 @@
             "last_commit": "2025-12-31T18:07:50Z",
             "owner": "symphorien",
             "repo": "nixseparatedebuginfod",
-            "stars": 115
+            "stars": 116
           }
         }
       ],
@@ -4905,7 +4905,7 @@
             "last_commit": "2026-08-24T00:02:52Z",
             "owner": "nickel-lang",
             "repo": "nickel",
-            "stars": 2981
+            "stars": 2982
           }
         }
       ],
@@ -4923,7 +4923,7 @@
             "archived": false,
             "id": 130384443,
             "language": "Nix",
-            "last_commit": "2026-08-26T00:51:12Z",
+            "last_commit": "2026-08-27T09:36:57Z",
             "owner": "input-output-hk",
             "repo": "haskell.nix",
             "stars": 632
@@ -4947,7 +4947,7 @@
             "last_commit": "2026-08-21T15:39:08Z",
             "owner": "ipetkov",
             "repo": "crane",
-            "stars": 1448
+            "stars": 1450
           }
         }
       ],
@@ -4965,7 +4965,7 @@
             "archived": false,
             "id": 177474518,
             "language": "Nix",
-            "last_commit": "2026-08-19T13:26:15Z",
+            "last_commit": "2026-08-26T13:36:02Z",
             "owner": "nix-community",
             "repo": "crate2nix",
             "stars": 518
@@ -4986,7 +4986,7 @@
             "archived": false,
             "id": 325973252,
             "language": "Nix",
-            "last_commit": "2026-08-25T03:04:47Z",
+            "last_commit": "2026-08-26T03:11:35Z",
             "owner": "oxalica",
             "repo": "rust-overlay",
             "stars": 1549
@@ -5007,10 +5007,10 @@
             "archived": false,
             "id": 326285915,
             "language": "Nix",
-            "last_commit": "2026-08-25T18:51:26Z",
+            "last_commit": "2026-08-26T07:13:27Z",
             "owner": "nix-community",
             "repo": "fenix",
-            "stars": 1109
+            "stars": 1110
           }
         }
       ],
@@ -5049,7 +5049,7 @@
             "archived": false,
             "id": 153979299,
             "language": "Nix",
-            "last_commit": "2026-08-25T20:27:59Z",
+            "last_commit": "2026-08-26T22:45:24Z",
             "owner": "tadfisher",
             "repo": "android-nixpkgs",
             "stars": 424
@@ -5094,7 +5094,7 @@
             "last_commit": "2026-08-23T01:47:46Z",
             "owner": "srid",
             "repo": "haskell-flake",
-            "stars": 238
+            "stars": 239
           }
         }
       ],
@@ -5112,7 +5112,7 @@
             "archived": false,
             "id": 356708265,
             "language": "Nix",
-            "last_commit": "2026-08-25T06:31:00Z",
+            "last_commit": "2026-08-26T06:32:48Z",
             "owner": "90-008",
             "repo": "nix-cargo-integration",
             "stars": 217
@@ -5154,10 +5154,10 @@
             "archived": false,
             "id": 845863146,
             "language": "Nix",
-            "last_commit": "2026-08-13T10:03:24Z",
+            "last_commit": "2026-08-27T02:40:18Z",
             "owner": "pyproject-nix",
             "repo": "uv2nix",
-            "stars": 774
+            "stars": 775
           }
         }
       ],
@@ -5196,10 +5196,10 @@
             "archived": false,
             "id": 667358543,
             "language": "Nix",
-            "last_commit": "2026-08-11T22:44:02Z",
+            "last_commit": "2026-08-26T18:33:25Z",
             "owner": "pyproject-nix",
             "repo": "pyproject.nix",
-            "stars": 316
+            "stars": 317
           }
         }
       ],
@@ -5283,7 +5283,7 @@
             "last_commit": "2026-07-24T16:49:01Z",
             "owner": "lenianiva",
             "repo": "lean4-nix",
-            "stars": 121
+            "stars": 122
           }
         }
       ],
@@ -5322,7 +5322,7 @@
             "archived": false,
             "id": 646842004,
             "language": "Python",
-            "last_commit": "2026-08-17T17:14:49Z",
+            "last_commit": "2026-08-26T16:49:08Z",
             "owner": "cachix",
             "repo": "nixpkgs-python",
             "stars": 230
@@ -5568,7 +5568,7 @@
             "archived": false,
             "id": 192372472,
             "language": "Nix",
-            "last_commit": "2026-08-25T21:49:10Z",
+            "last_commit": "2026-08-27T08:38:31Z",
             "owner": "nix-community",
             "repo": "poetry2nix",
             "stars": 928
@@ -5964,10 +5964,10 @@
             "archived": false,
             "id": 78938149,
             "language": "Nix",
-            "last_commit": "2026-08-25T18:04:39Z",
+            "last_commit": "2026-08-27T02:20:44Z",
             "owner": "nix-community",
             "repo": "home-manager",
-            "stars": 10283
+            "stars": 10289
           }
         }
       ],
@@ -5985,10 +5985,10 @@
             "archived": false,
             "id": 226584170,
             "language": "Nix",
-            "last_commit": "2026-08-22T14:55:37Z",
+            "last_commit": "2026-08-26T18:19:00Z",
             "owner": "nix-community",
             "repo": "NixOS-WSL",
-            "stars": 3070
+            "stars": 3071
           }
         }
       ],
@@ -6006,10 +6006,10 @@
             "archived": false,
             "id": 51292491,
             "language": "Nix",
-            "last_commit": "2026-08-20T02:06:28Z",
+            "last_commit": "2026-08-27T02:07:03Z",
             "owner": "NixOS",
             "repo": "nixos-hardware",
-            "stars": 3284
+            "stars": 3285
           }
         }
       ],
@@ -6030,7 +6030,7 @@
             "last_commit": "2026-08-16T02:32:30Z",
             "owner": "nix-darwin",
             "repo": "nix-darwin",
-            "stars": 5875
+            "stars": 5881
           }
         }
       ],
@@ -6072,7 +6072,7 @@
             "last_commit": "2026-08-25T11:47:15Z",
             "owner": "nix-community",
             "repo": "lanzaboote",
-            "stars": 1815
+            "stars": 1820
           }
         }
       ],
@@ -6090,10 +6090,10 @@
             "archived": false,
             "id": 473009882,
             "language": "Nix",
-            "last_commit": "2026-08-24T16:29:51Z",
+            "last_commit": "2026-08-27T07:14:22Z",
             "owner": "Jovian-Experiments",
             "repo": "Jovian-NixOS",
-            "stars": 1005
+            "stars": 1007
           }
         }
       ],
@@ -6111,10 +6111,10 @@
             "archived": false,
             "id": 573074151,
             "language": "Nix",
-            "last_commit": "2026-08-25T22:31:01Z",
+            "last_commit": "2026-08-27T02:35:10Z",
             "owner": "nix-community",
             "repo": "srvos",
-            "stars": 1002
+            "stars": 1003
           }
         }
       ],
@@ -6132,7 +6132,7 @@
             "archived": false,
             "id": 579512254,
             "language": "Nix",
-            "last_commit": "2026-08-26T01:22:08Z",
+            "last_commit": "2026-08-27T06:04:20Z",
             "owner": "ibizaman",
             "repo": "selfhostblocks",
             "stars": 494
@@ -6153,10 +6153,10 @@
             "archived": false,
             "id": 485231921,
             "language": "Nix",
-            "last_commit": "2026-08-26T01:46:34Z",
+            "last_commit": "2026-08-27T08:50:18Z",
             "owner": "Infinidoge",
             "repo": "nix-minecraft",
-            "stars": 606
+            "stars": 607
           }
         }
       ],
@@ -6216,10 +6216,10 @@
             "archived": false,
             "id": 814052480,
             "language": "Go",
-            "last_commit": "2026-08-25T02:57:23Z",
+            "last_commit": "2026-08-26T03:03:35Z",
             "owner": "nix-community",
             "repo": "nixos-facter",
-            "stars": 701
+            "stars": 703
           }
         }
       ],
@@ -6282,7 +6282,7 @@
             "last_commit": "2026-01-27T21:09:45Z",
             "owner": "nix-community",
             "repo": "impermanence",
-            "stars": 1876
+            "stars": 1878
           }
         }
       ],
@@ -6345,7 +6345,7 @@
             "last_commit": "2026-07-25T16:44:28Z",
             "owner": "nix-media-server",
             "repo": "nixarr",
-            "stars": 411
+            "stars": 412
           }
         }
       ],
@@ -6429,7 +6429,7 @@
             "last_commit": "2026-03-30T04:39:56Z",
             "owner": "nix-community",
             "repo": "nixos-facter-modules",
-            "stars": 179
+            "stars": 178
           }
         }
       ],
@@ -6450,7 +6450,7 @@
             "last_commit": "2025-09-09T16:45:19Z",
             "owner": "nix-community",
             "repo": "preservation",
-            "stars": 348
+            "stars": 349
           }
         }
       ],
@@ -6531,7 +6531,7 @@
             "archived": false,
             "id": 751640736,
             "language": "Nix",
-            "last_commit": "2026-08-24T01:25:07Z",
+            "last_commit": "2026-08-27T08:12:36Z",
             "owner": "krebs",
             "repo": "nether",
             "stars": 14
@@ -6573,7 +6573,7 @@
             "archived": false,
             "id": 764364156,
             "language": "Nix",
-            "last_commit": "2026-08-25T11:07:47Z",
+            "last_commit": "2026-08-26T11:09:00Z",
             "owner": "lilyinstarlight",
             "repo": "nixos-cosmic",
             "stars": 656
@@ -6669,10 +6669,10 @@
             "archived": false,
             "id": 323381043,
             "language": "Nix",
-            "last_commit": "2026-08-19T21:31:44Z",
+            "last_commit": "2026-08-26T19:14:14Z",
             "owner": "nix-community",
             "repo": "stylix",
-            "stars": 2381
+            "stars": 2385
           }
         }
       ],
@@ -6690,7 +6690,7 @@
             "archived": false,
             "id": 619366331,
             "language": "Nix",
-            "last_commit": "2026-08-25T23:55:14Z",
+            "last_commit": "2026-08-26T18:12:53Z",
             "owner": "catppuccin",
             "repo": "nix",
             "stars": 756
@@ -6816,10 +6816,10 @@
             "archived": false,
             "id": 123327588,
             "language": "Python",
-            "last_commit": "2026-08-26T02:21:15Z",
+            "last_commit": "2026-08-27T10:29:16Z",
             "owner": "nix-community",
             "repo": "NUR",
-            "stars": 1935
+            "stars": 1937
           }
         }
       ],
@@ -6837,7 +6837,7 @@
             "archived": false,
             "id": 163399343,
             "language": "Nix",
-            "last_commit": "2026-08-26T01:14:04Z",
+            "last_commit": "2026-08-27T07:56:33Z",
             "owner": "nix-community",
             "repo": "emacs-overlay",
             "stars": 637
@@ -6858,10 +6858,10 @@
             "archived": false,
             "id": 619996867,
             "language": "Nix",
-            "last_commit": "2026-08-26T02:47:42Z",
+            "last_commit": "2026-08-27T11:24:59Z",
             "owner": "chaotic-cx",
             "repo": "nyx",
-            "stars": 750
+            "stars": 751
           }
         }
       ],
@@ -6882,7 +6882,7 @@
             "last_commit": "2026-08-24T13:13:17Z",
             "owner": "nix-community",
             "repo": "nixpkgs-wayland",
-            "stars": 626
+            "stars": 627
           }
         }
       ],
@@ -6900,10 +6900,10 @@
             "archived": false,
             "id": 617562687,
             "language": "Nix",
-            "last_commit": "2026-08-24T04:03:17Z",
+            "last_commit": "2026-08-26T13:14:28Z",
             "owner": "numtide",
             "repo": "system-manager",
-            "stars": 1697
+            "stars": 1698
           }
         }
       ],
@@ -6966,7 +6966,7 @@
             "last_commit": "2026-01-08T09:44:01Z",
             "owner": "mirrexagon",
             "repo": "nixpkgs-esp-dev",
-            "stars": 328
+            "stars": 329
           }
         }
       ],
@@ -6984,7 +6984,7 @@
             "archived": false,
             "id": 737790546,
             "language": "Nix",
-            "last_commit": "2026-08-26T01:16:22Z",
+            "last_commit": "2026-08-27T07:29:38Z",
             "owner": "nix-community",
             "repo": "nixpkgs-xr",
             "stars": 104
@@ -7005,7 +7005,7 @@
             "archived": false,
             "id": 437611148,
             "language": "Nix",
-            "last_commit": "2026-08-26T00:52:38Z",
+            "last_commit": "2026-08-27T06:33:17Z",
             "owner": "bandithedoge",
             "repo": "nixpkgs-firefox-darwin",
             "stars": 74
@@ -7047,7 +7047,7 @@
             "archived": false,
             "id": 855116041,
             "language": "TypeScript",
-            "last_commit": "2026-08-26T00:01:05Z",
+            "last_commit": "2026-08-27T00:01:06Z",
             "owner": "atahanyorganci",
             "repo": "nix-casks",
             "stars": 30
@@ -7068,7 +7068,7 @@
             "archived": false,
             "id": 543363088,
             "language": "Nix",
-            "last_commit": "2026-08-12T00:05:44Z",
+            "last_commit": "2026-08-26T20:00:15Z",
             "owner": "nix-community",
             "repo": "talon-nix",
             "stars": 38
@@ -7221,7 +7221,7 @@
             "archived": false,
             "id": 685629450,
             "language": "Python",
-            "last_commit": "2026-08-25T18:32:04Z",
+            "last_commit": "2026-08-27T10:08:29Z",
             "owner": "NixOS",
             "repo": "nix-security-tracker",
             "stars": 114
@@ -7245,7 +7245,7 @@
             "last_commit": "2026-02-04T00:31:49Z",
             "owner": "ryantm",
             "repo": "agenix",
-            "stars": 2467
+            "stars": 2468
           }
         }
       ],
@@ -7371,7 +7371,7 @@
             "last_commit": "2026-07-28T01:07:59Z",
             "owner": "tweag",
             "repo": "genealogos",
-            "stars": 55
+            "stars": 56
           }
         }
       ],
@@ -7533,10 +7533,10 @@
             "archived": false,
             "id": 596198210,
             "language": "Nix",
-            "last_commit": "2026-08-23T20:36:16Z",
+            "last_commit": "2026-08-26T20:35:31Z",
             "owner": "NotAShelf",
             "repo": "nvf",
-            "stars": 1611
+            "stars": 1614
           }
         }
       ],
@@ -7554,10 +7554,10 @@
             "archived": false,
             "id": 325421844,
             "language": "Nix",
-            "last_commit": "2026-08-25T20:55:20Z",
+            "last_commit": "2026-08-26T21:24:58Z",
             "owner": "nix-community",
             "repo": "nixvim",
-            "stars": 2929
+            "stars": 2932
           }
         }
       ],
@@ -7596,7 +7596,7 @@
             "archived": false,
             "id": 67685297,
             "language": "Java",
-            "last_commit": "2026-07-12T19:21:35Z",
+            "last_commit": "2026-08-26T21:50:54Z",
             "owner": "NixOS",
             "repo": "nix-idea",
             "stars": 221
@@ -7617,7 +7617,7 @@
             "archived": false,
             "id": 289743831,
             "language": "Nix",
-            "last_commit": "2026-08-26T00:01:00Z",
+            "last_commit": "2026-08-27T01:55:11Z",
             "owner": "nix-community",
             "repo": "neovim-nightly-overlay",
             "stars": 415
@@ -7680,7 +7680,7 @@
             "archived": false,
             "id": 688503616,
             "language": "Rust",
-            "last_commit": "2026-08-26T02:17:35Z",
+            "last_commit": "2026-08-27T09:13:21Z",
             "owner": "nix-community",
             "repo": "nix4vscode",
             "stars": 134
@@ -7803,7 +7803,7 @@
             "last_commit": "2026-08-21T22:40:27Z",
             "owner": "nix-community",
             "repo": "nix-on-droid",
-            "stars": 2135
+            "stars": 2136
           }
         }
       ],
@@ -7824,7 +7824,7 @@
             "last_commit": "2026-07-10T17:09:03Z",
             "owner": "nixos-bsd",
             "repo": "nixbsd",
-            "stars": 1029
+            "stars": 1030
           }
         }
       ],
@@ -7908,7 +7908,7 @@
             "last_commit": "2025-08-30T19:41:43Z",
             "owner": "NickCao",
             "repo": "nixos-riscv",
-            "stars": 100
+            "stars": 101
           }
         }
       ],
@@ -7980,7 +7980,7 @@
             "last_commit": "2026-07-23T17:30:40Z",
             "owner": "nix-community",
             "repo": "awesome-nix",
-            "stars": 5414
+            "stars": 5417
           }
         }
       ],
@@ -8024,9 +8024,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:58:28.032Z",
-    "original_repository": "tolkonepiu/best-of-nix",
-    "original_repository_id": 981386382,
+    "last_updated": "2026-08-27T11:26:27.005Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 981386382,
+      "language": null,
+      "last_commit": "2026-08-24T09:06:57Z",
+      "owner": "tolkonepiu",
+      "repo": "best-of-nix",
+      "stars": 86
+    },
     "original_repository_sha": "5d583e4b2e7f2efab850c18ee97e0af1af0d6fa4",
     "enhanced_repository": "enhansome/enhansome-best-of-nix",
     "enhanced_repository_description": null,

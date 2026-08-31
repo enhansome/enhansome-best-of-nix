@@ -6,7 +6,7 @@
         {
           "node_type": "item",
           "title": "NixOS/nix.dev",
-          "description": "(👨‍💻 200 · 🔀 340 · 📋 330 - 40% open · ⏱️ 13.08.2026)",
+          "description": "(👨‍💻 200 · 🔀 340 · 📋 330 - 40% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -19,7 +19,7 @@
             "open_issues": 155,
             "owner": "NixOS",
             "repo": "nix.dev",
-            "stars": 3934,
+            "stars": 3935,
             "topics": [
               "cookbook",
               "documentation",
@@ -54,7 +54,7 @@
             "open_issues": 5,
             "owner": "ryan4yin",
             "repo": "nixos-and-flakes-book",
-            "stars": 3266,
+            "stars": 3269,
             "topics": [
               "book",
               "dotfiles",
@@ -77,6 +77,39 @@
       "items": [
         {
           "node_type": "item",
+          "title": "nix-community/awesome-nix",
+          "description": "(👨‍💻 130 · 🔀 200 · 📦 10 · 📋 40 - 17% open · ⏱️ 23.07.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "😎 A curated list of the best resources in the Nix community [maintainer=@cyntheticfox]",
+            "homepage": "https://nix-community.github.io/awesome-nix/",
+            "id": 186849419,
+            "language": null,
+            "license": "CC0-1.0",
+            "last_commit": "2026-07-23T17:30:40Z",
+            "open_issues": 22,
+            "owner": "nix-community",
+            "repo": "awesome-nix",
+            "stars": 5430,
+            "topics": [
+              "awesome",
+              "awesome-list",
+              "lists",
+              "nix",
+              "nixos"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "awesome-nix (🥈19 · ⭐ 5.4K · 📈) - A curated list of the best resources in the Nix community. ❗️CC0-1.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "the-nix-way/dev-templates",
           "description": "(👨‍💻 40 · 🔀 190 · 📋 26 - 19% open · ⏱️ 12.06.2026)",
           "children": [],
@@ -91,7 +124,7 @@
             "open_issues": 10,
             "owner": "the-nix-way",
             "repo": "dev-templates",
-            "stars": 2342,
+            "stars": 2344,
             "topics": [
               "flakes",
               "nix",
@@ -109,7 +142,7 @@
         {
           "node_type": "item",
           "title": "DeterminateSystems/zero-to-nix",
-          "description": "(👨‍💻 56 · 🔀 79 · 📋 110 - 33% open · ⏱️ 09.08.2026)",
+          "description": "(👨‍💻 56 · 🔀 79 · 📋 110 - 33% open · ⏱️ 27.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -122,7 +155,7 @@
             "open_issues": 49,
             "owner": "DeterminateSystems",
             "repo": "zero-to-nix",
-            "stars": 1274,
+            "stars": 1275,
             "topics": [
               "documentation",
               "flakes",
@@ -227,7 +260,7 @@
         {
           "node_type": "item",
           "title": "Gabriella439/nixos-in-production",
-          "description": "(👨‍💻 7 · 🔀 28 · 📋 29 - 24% open · ⏱️ 29.04.2026)",
+          "description": "(👨‍💻 7 · 🔀 27 · 📋 29 - 24% open · ⏱️ 29.04.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -445,7 +478,7 @@
         {
           "node_type": "item",
           "title": "ryan4yin/nix-config",
-          "description": "(👨‍💻 15 · 🔀 98 · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 15 · 🔀 98 · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -454,11 +487,11 @@
             "id": 631333073,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T04:57:36Z",
+            "last_commit": "2026-08-31T07:33:49Z",
             "open_issues": 0,
             "owner": "ryan4yin",
             "repo": "nix-config",
-            "stars": 2038,
+            "stars": 2040,
             "topics": [
               "dotfiles",
               "hyprland",
@@ -484,7 +517,7 @@
         {
           "node_type": "item",
           "title": "dustinlyons/nixos-config",
-          "description": "(👨‍💻 21 · 🔀 200 · 📋 110 - 24% open · ⏱️ 13.08.2026)",
+          "description": "(👨‍💻 21 · 🔀 200 · 📋 110 - 24% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -493,7 +526,7 @@
             "id": 420004805,
             "language": "Nix",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-08-27T16:31:39Z",
+            "last_commit": "2026-08-30T23:15:47Z",
             "open_issues": 29,
             "owner": "dustinlyons",
             "repo": "nixos-config",
@@ -524,7 +557,7 @@
         {
           "node_type": "item",
           "title": "hlissner/dotfiles",
-          "description": "(👨‍💻 7 · 🔀 100 · 📋 29 - 10% open · ⏱️ 22.07.2026)",
+          "description": "(👨‍💻 7 · 🔀 100 · 📋 29 - 10% open · ⏱️ 26.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -537,7 +570,7 @@
             "open_issues": 3,
             "owner": "hlissner",
             "repo": "dotfiles",
-            "stars": 1938,
+            "stars": 1940,
             "topics": [
               "dotfiles",
               "nix-flake",
@@ -583,7 +616,7 @@
         {
           "node_type": "item",
           "title": "kclejeune/system",
-          "description": "(👨‍💻 9 · 🔀 40 · ⏱️ 24.08.2026)",
+          "description": "(👨‍💻 9 · 🔀 40 · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -592,8 +625,8 @@
             "id": 276564920,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-28T11:35:08Z",
-            "open_issues": 3,
+            "last_commit": "2026-08-31T00:01:01Z",
+            "open_issues": 1,
             "owner": "kclejeune",
             "repo": "system",
             "stars": 528,
@@ -617,43 +650,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "Misterio77/nix-starter-configs",
-          "description": "(👨‍💻 15 · 🔀 170 · 📋 73 - 21% open · ⏱️ 24.04.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
-            "homepage": null,
-            "id": 439118950,
-            "language": "Nix",
-            "license": "CC0-1.0",
-            "last_commit": "2026-04-24T02:01:17Z",
-            "open_issues": 16,
-            "owner": "Misterio77",
-            "repo": "nix-starter-configs",
-            "stars": 3819,
-            "topics": [
-              "dotfiles",
-              "flakes",
-              "home-manager",
-              "nix",
-              "nixos",
-              "starter",
-              "template"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "Misterio77/nix-starter-configs (🥉13 · ⭐ 3.8K) - A few simple Nix Flake templates for getting started with NixOS + home-manager. ❗️CC0-1.0"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "donovanglover/nix-config",
-          "description": "(🔀 12 · 📋 5 - 20% open · ⏱️ 14.05.2026)",
+          "description": "(🔀 12 · 📋 5 - 20% open · ⏱️ 29.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -688,7 +686,42 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "donovanglover/nix-config (🥉13 · ⭐ 390) - NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland. MIT"
+      "title": "donovanglover/nix-config (🥈15 · ⭐ 390 · 📈) - NixOS configuration with Nix Flakes, Home Manager, Stylix, and Hyprland. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Misterio77/nix-starter-configs",
+          "description": "(👨‍💻 15 · 🔀 170 · 📋 73 - 21% open · ⏱️ 24.04.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Simple and documented config templates to help you get started with NixOS + home-manager + flakes. All the boilerplate you need!",
+            "homepage": null,
+            "id": 439118950,
+            "language": "Nix",
+            "license": "CC0-1.0",
+            "last_commit": "2026-04-24T02:01:17Z",
+            "open_issues": 16,
+            "owner": "Misterio77",
+            "repo": "nix-starter-configs",
+            "stars": 3820,
+            "topics": [
+              "dotfiles",
+              "flakes",
+              "home-manager",
+              "nix",
+              "nixos",
+              "starter",
+              "template"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "Misterio77/nix-starter-configs (🥉13 · ⭐ 3.8K) - A few simple Nix Flake templates for getting started with NixOS + home-manager. ❗️CC0-1.0"
     },
     {
       "description": null,
@@ -696,7 +729,7 @@
         {
           "node_type": "item",
           "title": "NobbZ/nixos-config",
-          "description": "(👨‍💻 9 · 🔀 6 · 📋 15 - 33% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 9 · 🔀 6 · 📋 15 - 33% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -705,7 +738,7 @@
             "id": 308058804,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-29T09:28:31Z",
+            "last_commit": "2026-08-30T08:46:11Z",
             "open_issues": 6,
             "owner": "NobbZ",
             "repo": "nixos-config",
@@ -729,7 +762,7 @@
         {
           "node_type": "item",
           "title": "juspay/nixos-unified-template",
-          "description": "(👨‍💻 17 · 🔀 65 · 📋 49 - 18% open · ⏱️ 08.07.2026)",
+          "description": "(👨‍💻 17 · 🔀 65 · 📋 49 - 18% open · ⏱️ 28.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -787,7 +820,7 @@
         {
           "node_type": "item",
           "title": "NixOS/nixpkgs",
-          "description": "(🔀 20K · 📋 58K - 16% open · ⏱️ 24.08.2026)",
+          "description": "(🔀 20K · 📋 58K - 16% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -796,11 +829,11 @@
             "id": 4542716,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T07:40:10Z",
-            "open_issues": 20947,
+            "last_commit": "2026-08-31T07:55:18Z",
+            "open_issues": 21086,
             "owner": "NixOS",
             "repo": "nixpkgs",
-            "stars": 25971,
+            "stars": 25987,
             "topics": [
               "hacktoberfest",
               "linux",
@@ -820,7 +853,7 @@
         {
           "node_type": "item",
           "title": "NixOS/nixos-search",
-          "description": "(👨‍💻 140 · 🔀 180 · 📋 560 - 28% open · ⏱️ 21.08.2026)",
+          "description": "(👨‍💻 140 · 🔀 180 · 📋 560 - 28% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -829,8 +862,8 @@
             "id": 250712577,
             "language": "Elm",
             "license": "MIT",
-            "last_commit": "2026-08-28T06:15:01Z",
-            "open_issues": 187,
+            "last_commit": "2026-08-30T12:54:55Z",
+            "open_issues": 186,
             "owner": "NixOS",
             "repo": "nixos-search",
             "stars": 594,
@@ -899,7 +932,7 @@
             "open_issues": 29,
             "owner": "NuschtOS",
             "repo": "search",
-            "stars": 165,
+            "stars": 166,
             "topics": [
               "hacktoberfest",
               "nix",
@@ -911,7 +944,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "NüschtOS Search (🥈17 · ⭐ 160) - Simple and fast static-page NixOS option search. MIT"
+      "title": "NüschtOS Search (🥈17 · ⭐ 170) - Simple and fast static-page NixOS option search. MIT"
     },
     {
       "description": null,
@@ -928,7 +961,7 @@
             "id": 444581688,
             "language": "Ruby",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-29T11:01:10Z",
+            "last_commit": "2026-08-30T09:55:09Z",
             "open_issues": 17,
             "owner": "ekstranix",
             "repo": "home-manager-option-search",
@@ -1062,7 +1095,7 @@
             "open_issues": 11,
             "owner": "lazamar",
             "repo": "nix-package-versions",
-            "stars": 429,
+            "stars": 430,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -1121,7 +1154,7 @@
         {
           "node_type": "item",
           "title": "DeterminateSystems/nix-installer",
-          "description": "(👨‍💻 36 · 🔀 99 · 📥 720K · 📦 3 · 📋 940 - 43% open · ⏱️ 21.08.2026)",
+          "description": "(👨‍💻 36 · 🔀 99 · 📥 760K · 📦 3 · 📋 940 - 43% open · ⏱️ 21.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1131,10 +1164,10 @@
             "language": "Rust",
             "license": "LGPL-2.1",
             "last_commit": "2026-08-30T00:05:19Z",
-            "open_issues": 438,
+            "open_issues": 439,
             "owner": "DeterminateSystems",
             "repo": "nix-installer",
-            "stars": 3678,
+            "stars": 3679,
             "topics": [
               "docker",
               "fedora",
@@ -1153,7 +1186,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nix-installer (🥇24 · ⭐ 3.7K · 📈) - Opinionated alternative to the official Nix install scripts. ❗️LGPL-2.1"
+      "title": "nix-installer (🥇24 · ⭐ 3.7K) - Opinionated alternative to the official Nix install scripts. ❗️LGPL-2.1"
     },
     {
       "description": null,
@@ -1161,7 +1194,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nixos-apple-silicon",
-          "description": "(👨‍💻 56 · 🔀 160 · 📥 5.7K · 📋 260 - 0% open · ⏱️ 16.08.2026)",
+          "description": "(👨‍💻 56 · 🔀 160 · 📥 5.7K · 📋 260 - 1% open · ⏱️ 26.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1170,11 +1203,11 @@
             "id": 438066095,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-26T13:12:25Z",
-            "open_issues": 4,
+            "last_commit": "2026-08-30T20:42:55Z",
+            "open_issues": 6,
             "owner": "nix-community",
             "repo": "nixos-apple-silicon",
-            "stars": 1616,
+            "stars": 1620,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -1188,7 +1221,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nixos-anywhere",
-          "description": "(👨‍💻 83 · 🔀 210 · 📋 220 - 35% open · ⏱️ 19.08.2026)",
+          "description": "(👨‍💻 83 · 🔀 210 · 📋 220 - 35% open · ⏱️ 26.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1201,7 +1234,7 @@
             "open_issues": 104,
             "owner": "nix-community",
             "repo": "nixos-anywhere",
-            "stars": 3413,
+            "stars": 3418,
             "topics": [
               "build-with-buildbot",
               "deployment",
@@ -1220,7 +1253,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nixos-images",
-          "description": "(👨‍💻 26 · 🔀 62 · 📥 100K · 📋 35 - 22% open · ⏱️ 20.08.2026)",
+          "description": "(👨‍💻 26 · 🔀 62 · 📥 110K · 📋 35 - 22% open · ⏱️ 27.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1239,7 +1272,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nixos-images (🥈20 · ⭐ 410 · 📉) - Automatically build (netboot) images for NixOS. MIT"
+      "title": "nixos-images (🥈20 · ⭐ 410) - Automatically build (netboot) images for NixOS. MIT"
     },
     {
       "description": null,
@@ -1247,7 +1280,7 @@
         {
           "node_type": "item",
           "title": "DavHau/nix-portable",
-          "description": "(👨‍💻 13 · 🔀 67 · 📥 75K · 📋 83 - 72% open · ⏱️ 05.02.2026)",
+          "description": "(👨‍💻 13 · 🔀 67 · 📥 81K · 📋 83 - 72% open · ⏱️ 05.02.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1256,11 +1289,11 @@
             "id": 336990093,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-27T06:21:34Z",
+            "last_commit": "2026-08-31T02:39:12Z",
             "open_issues": 72,
             "owner": "DavHau",
             "repo": "nix-portable",
-            "stars": 1401,
+            "stars": 1402,
             "topics": [
               "bubblewrap",
               "bwrap",
@@ -1320,7 +1353,7 @@
         {
           "node_type": "item",
           "title": "astro/nix-openwrt-imagebuilder",
-          "description": "(👨‍💻 17 · 🔀 29 · 📋 32 - 18% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 17 · 🔀 29 · 📋 32 - 18% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1329,7 +1362,7 @@
             "id": 486343816,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-29T13:51:49Z",
+            "last_commit": "2026-08-30T13:50:09Z",
             "open_issues": 7,
             "owner": "astro",
             "repo": "nix-openwrt-imagebuilder",
@@ -1379,7 +1412,7 @@
         {
           "node_type": "item",
           "title": "Robertof/nixos-docker-sd-image-builder",
-          "description": "(👨‍💻 7 · 🔀 34 · 📋 27 - 18% open · ⏱️ 30.01.2026)",
+          "description": "(👨‍💻 7 · 🔀 35 · 📋 27 - 18% open · ⏱️ 30.01.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1446,7 +1479,7 @@
             "open_issues": 18,
             "owner": "nix-community",
             "repo": "raspberry-pi-nix",
-            "stars": 312,
+            "stars": 310,
             "topics": [
               "nix-community-buildbot"
             ]
@@ -1573,7 +1606,7 @@
         {
           "node_type": "item",
           "title": "DeterminateSystems/update-flake-lock",
-          "description": "(👨‍💻 30 · 🔀 44 · 📦 3.8K · 📋 63 - 49% open · ⏱️ 17.08.2026)",
+          "description": "(👨‍💻 30 · 🔀 44 · 📦 3.8K · 📋 63 - 49% open · ⏱️ 26.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1586,7 +1619,7 @@
             "open_issues": 41,
             "owner": "DeterminateSystems",
             "repo": "update-flake-lock",
-            "stars": 402,
+            "stars": 403,
             "topics": [
               "nix",
               "nix-flake"
@@ -1595,39 +1628,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "update-flake-lock (🥈21 · ⭐ 400) - This is a GitHub Action that updates the flake.lock file for your Nix flake whenever it is run. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "DeterminateSystems/nix-installer-action",
-          "description": "(👨‍💻 17 · 🔀 30 · 📦 9.7K · 📋 46 - 39% open · ⏱️ 15.07.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Github Action for the Determinate Nix Installer",
-            "homepage": "https://github.com/determinateSystems/nix-installer",
-            "id": 588678074,
-            "language": "TypeScript",
-            "license": "LGPL-2.1",
-            "last_commit": "2026-08-21T18:33:35Z",
-            "open_issues": 33,
-            "owner": "DeterminateSystems",
-            "repo": "nix-installer-action",
-            "stars": 247,
-            "topics": [
-              "actions",
-              "flakes",
-              "install",
-              "nix"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "nix-installer-action (🥈21 · ⭐ 250) - The fast, friendly, and reliable GitHub Action to install Nix with Flakes. ❗️LGPL-2.1"
+      "title": "update-flake-lock (🥈22 · ⭐ 400) - This is a GitHub Action that updates the flake.lock file for your Nix flake whenever it is run. MIT"
     },
     {
       "description": null,
@@ -1658,7 +1659,72 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "magic-nix-cache-action (🥉20 · ⭐ 560) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary.. MIT"
+      "title": "magic-nix-cache-action (🥈20 · ⭐ 560) - Save 30-50%+ of CI time without any effort or cost. Use Magic Nix Cache, a totally free and zero-configuration binary.. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeterminateSystems/nix-installer-action",
+          "description": "(👨‍💻 17 · 🔀 30 · 📦 9.8K · 📋 47 - 40% open · ⏱️ 15.07.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Github Action for the Determinate Nix Installer",
+            "homepage": "https://github.com/determinateSystems/nix-installer",
+            "id": 588678074,
+            "language": "TypeScript",
+            "license": "LGPL-2.1",
+            "last_commit": "2026-08-21T18:33:35Z",
+            "open_issues": 33,
+            "owner": "DeterminateSystems",
+            "repo": "nix-installer-action",
+            "stars": 247,
+            "topics": [
+              "actions",
+              "flakes",
+              "install",
+              "nix"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "nix-installer-action (🥈20 · ⭐ 250 · 📉) - The fast, friendly, and reliable GitHub Action to install Nix with Flakes. ❗️LGPL-2.1"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeterminateSystems/flake-checker-action",
+          "description": "(👨‍💻 5 · 🔀 7 · 📦 1.8K · 📋 11 - 27% open · ⏱️ 15.07.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A GitHub Action that performs health checks for your Nix flake.lock files",
+            "homepage": "https://github.com/marketplace/actions/nix-flake-checker",
+            "id": 649661078,
+            "language": "TypeScript",
+            "license": "MIT",
+            "last_commit": "2026-08-21T18:25:43Z",
+            "open_issues": 18,
+            "owner": "DeterminateSystems",
+            "repo": "flake-checker-action",
+            "stars": 86,
+            "topics": [
+              "code-quality",
+              "dependency-management",
+              "flakes",
+              "nix",
+              "nixos"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "flake-checker-action (🥉16 · ⭐ 86 · 📈) - A GitHub Action that performs health checks for your Nix flake.lock files. MIT"
     },
     {
       "description": null,
@@ -1701,41 +1767,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "DeterminateSystems/flake-checker-action",
-          "description": "(👨‍💻 5 · 🔀 7 · 📋 11 - 27% open · ⏱️ 15.07.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A GitHub Action that performs health checks for your Nix flake.lock files",
-            "homepage": "https://github.com/marketplace/actions/nix-flake-checker",
-            "id": 649661078,
-            "language": "TypeScript",
-            "license": "MIT",
-            "last_commit": "2026-08-21T18:25:43Z",
-            "open_issues": 18,
-            "owner": "DeterminateSystems",
-            "repo": "flake-checker-action",
-            "stars": 86,
-            "topics": [
-              "code-quality",
-              "dependency-management",
-              "flakes",
-              "nix",
-              "nixos"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "flake-checker-action (🥉12 · ⭐ 86 · 📉) - A GitHub Action that performs health checks for your Nix flake.lock files. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "saschagrunert/kubernix",
-          "description": "(👨‍💻 8 · 🔀 28 · 📥 5.9K · 📦 51 · ⏱️ 19.08.2026)",
+          "description": "(👨‍💻 8 · 🔀 28 · 📥 6K · 📦 51 · ⏱️ 27.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1784,7 +1817,7 @@
             "open_issues": 146,
             "owner": "nix-community",
             "repo": "colmena",
-            "stars": 2329,
+            "stars": 2330,
             "topics": [
               "deployment",
               "nix",
@@ -1802,7 +1835,7 @@
         {
           "node_type": "item",
           "title": "nlewo/comin",
-          "description": "(👨‍💻 29 · 🔀 60 · 📋 70 - 42% open · ⏱️ 04.08.2026)",
+          "description": "(👨‍💻 29 · 🔀 63 · 📋 72 - 44% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1815,7 +1848,7 @@
             "open_issues": 44,
             "owner": "nlewo",
             "repo": "comin",
-            "stars": 991,
+            "stars": 992,
             "topics": [
               "cicd",
               "continuous-deployment",
@@ -1828,7 +1861,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "comin (🥇19 · ⭐ 980) - A deployment tool to continuously pull from Git repositories. MIT"
+      "title": "comin (🥇19 · ⭐ 990) - A deployment tool to continuously pull from Git repositories. MIT"
     },
     {
       "description": null,
@@ -1849,7 +1882,7 @@
             "open_issues": 327,
             "owner": "NixOS",
             "repo": "nixops",
-            "stars": 2194,
+            "stars": 2195,
             "topics": [
               "aws",
               "cloud",
@@ -1889,7 +1922,7 @@
             "open_issues": 56,
             "owner": "DBCDK",
             "repo": "morph",
-            "stars": 1058,
+            "stars": 1061,
             "topics": [
               "deployment",
               "devops",
@@ -1910,7 +1943,7 @@
         {
           "node_type": "item",
           "title": "hall/kubenix",
-          "description": "(👨‍💻 31 · 🔀 46 · 📋 59 - 44% open · ⏱️ 02.08.2026)",
+          "description": "(👨‍💻 31 · 🔀 46 · 📋 59 - 44% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -1943,6 +1976,40 @@
       "items": [
         {
           "node_type": "item",
+          "title": "serokell/deploy-rs",
+          "description": "(👨‍💻 50 · 🔀 160 · 📋 220 - 44% open · ⏱️ 10.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A simple multi-profile Nix-flake deploy tool.",
+            "homepage": null,
+            "id": 299387376,
+            "language": "Rust",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-31T02:00:41Z",
+            "open_issues": 143,
+            "owner": "serokell",
+            "repo": "deploy-rs",
+            "stars": 2295,
+            "topics": [
+              "deployment",
+              "flakes",
+              "nix",
+              "nix-flake",
+              "nixos",
+              "tool"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "deploy-rs (🥈16 · ⭐ 2.3K) - A simple multi-profile Nix-flake deploy tool. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "terranix/terranix",
           "description": "(👨‍💻 35 · 🔀 52 · 📋 54 - 37% open · ⏱️ 19.07.2026)",
           "children": [],
@@ -1967,41 +2034,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "terranix (🥈17 · ⭐ 510) - Use Nix and the NixOS module system to write your Terraform code. ❗️GPL-3.0"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "serokell/deploy-rs",
-          "description": "(👨‍💻 50 · 🔀 160 · 📋 220 - 44% open · ⏱️ 10.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A simple multi-profile Nix-flake deploy tool.",
-            "homepage": null,
-            "id": 299387376,
-            "language": "Rust",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-24T02:00:46Z",
-            "open_issues": 143,
-            "owner": "serokell",
-            "repo": "deploy-rs",
-            "stars": 2291,
-            "topics": [
-              "deployment",
-              "flakes",
-              "nix",
-              "nix-flake",
-              "nixos",
-              "tool"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "deploy-rs (🥈16 · ⭐ 2.3K) - A simple multi-profile Nix-flake deploy tool. ❗Unlicensed"
+      "title": "terranix (🥈16 · ⭐ 510 · 📉) - Use Nix and the NixOS module system to write your Terraform code. ❗️GPL-3.0"
     },
     {
       "description": null,
@@ -2044,7 +2077,7 @@
         {
           "node_type": "item",
           "title": "nlewo/nix2container",
-          "description": "(👨‍💻 32 · 🔀 80 · 📋 110 - 50% open · ⏱️ 06.04.2026)",
+          "description": "(👨‍💻 32 · 🔀 82 · 📋 110 - 50% open · ⏱️ 06.04.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2078,7 +2111,7 @@
         {
           "node_type": "item",
           "title": "nixops4/nixops4",
-          "description": "(👨‍💻 8 · 🔀 19 · 📋 31 - 61% open · ⏱️ 23.07.2026)",
+          "description": "(👨‍💻 8 · 🔀 20 · 📋 31 - 61% open · ⏱️ 23.07.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2097,7 +2130,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "NixOps4 (🥉12 · ⭐ 920) - Deploy with Nix and manage resources declaratively. ❗️LGPL-2.1"
+      "title": "NixOps4 (🥉12 · ⭐ 930) - Deploy with Nix and manage resources declaratively. ❗️LGPL-2.1"
     },
     {
       "description": null,
@@ -2326,7 +2359,7 @@
         {
           "node_type": "item",
           "title": "microvm-nix/microvm.nix",
-          "description": "(👨‍💻 120 · 🔀 220 · 📋 250 - 17% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 120 · 🔀 220 · 📋 250 - 17% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2339,7 +2372,7 @@
             "open_issues": 56,
             "owner": "microvm-nix",
             "repo": "microvm.nix",
-            "stars": 2895,
+            "stars": 2899,
             "topics": [
               "cloud-hypervisor",
               "crosvm",
@@ -2395,6 +2428,33 @@
       "items": [
         {
           "node_type": "item",
+          "title": "SaumonNet/proxmox-nixos",
+          "description": "(👨‍💻 23 · 🔀 69 · 📋 82 - 28% open · ⏱️ 29.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka] ",
+            "homepage": null,
+            "id": 759401680,
+            "language": "Nix",
+            "license": "AGPL-3.0",
+            "last_commit": "2026-08-29T13:09:42Z",
+            "open_issues": 31,
+            "owner": "SaumonNet",
+            "repo": "proxmox-nixos",
+            "stars": 1375,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "proxmox-nixos (🥈16 · ⭐ 1.4K · 📈) - The Proxmox Hypervisor, on NixOS. ❗️AGPL-3.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "pdtpartners/nix-snapshotter",
           "description": "(👨‍💻 12 · 🔀 33 · 📦 24 · 📋 78 - 29% open · ⏱️ 24.02.2026)",
           "children": [],
@@ -2425,7 +2485,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nix-snapshotter (🥈15 · ⭐ 840) - Brings native understanding of Nix packages to containerd. MIT"
+      "title": "nix-snapshotter (🥉15 · ⭐ 840) - Brings native understanding of Nix packages to containerd. MIT"
     },
     {
       "description": null,
@@ -2452,7 +2512,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "NixVirt (🥈15 · ⭐ 380) - LibVirt domain management for Nix. MIT"
+      "title": "NixVirt (🥉15 · ⭐ 380) - LibVirt domain management for Nix. MIT"
     },
     {
       "description": null,
@@ -2480,33 +2540,6 @@
         }
       ],
       "title": "extra-container (🥉12 · ⭐ 300 · 💤) - Run declarative NixOS containers from the command line. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "SaumonNet/proxmox-nixos",
-          "description": "(👨‍💻 20 · 🔀 68 · 📋 82 - 37% open · ⏱️ 26.05.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "The Proxmox Hypervisor, on NixOS [maintainers=@camillemndn @julienmalka] ",
-            "homepage": null,
-            "id": 759401680,
-            "language": "Nix",
-            "license": "AGPL-3.0",
-            "last_commit": "2026-08-29T13:09:42Z",
-            "open_issues": 31,
-            "owner": "SaumonNet",
-            "repo": "proxmox-nixos",
-            "stars": 1374,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "proxmox-nixos (🥉11 · ⭐ 1.4K) - The Proxmox Hypervisor, on NixOS. ❗️AGPL-3.0"
     },
     {
       "description": null,
@@ -2575,7 +2608,7 @@
         {
           "node_type": "item",
           "title": "NixOS/patchelf",
-          "description": "(👨‍💻 100 · 🔀 520 · 📥 12M · 📋 290 - 39% open · ⏱️ 06.07.2026)",
+          "description": "(👨‍💻 100 · 🔀 520 · 📥 13M · 📋 290 - 39% open · ⏱️ 06.07.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2588,13 +2621,13 @@
             "open_issues": 148,
             "owner": "NixOS",
             "repo": "patchelf",
-            "stars": 4250,
+            "stars": 4253,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "patchelf (🥇27 · ⭐ 4.2K) - A small utility to modify the dynamic linker and RPATH of ELF executables. ❗️GPL-3.0"
+      "title": "patchelf (🥇27 · ⭐ 4.3K) - A small utility to modify the dynamic linker and RPATH of ELF executables. ❗️GPL-3.0"
     },
     {
       "description": null,
@@ -2602,7 +2635,7 @@
         {
           "node_type": "item",
           "title": "NixOS/nixfmt",
-          "description": "(👨‍💻 48 · 🔀 75 · 📥 27K · 📋 200 - 9% open · ⏱️ 18.08.2026)",
+          "description": "(👨‍💻 48 · 🔀 75 · 📥 28K · 📋 200 - 9% open · ⏱️ 27.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2633,7 +2666,7 @@
         {
           "node_type": "item",
           "title": "numtide/treefmt",
-          "description": "(👨‍💻 24 · 🔀 54 · 📥 170K · 📦 8 · 📋 230 - 25% open · ⏱️ 16.08.2026)",
+          "description": "(👨‍💻 24 · 🔀 54 · 📥 170K · 📦 8 · 📋 230 - 25% open · ⏱️ 27.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2642,7 +2675,7 @@
             "id": 322563105,
             "language": "Go",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:37:02Z",
+            "last_commit": "2026-08-30T21:29:37Z",
             "open_issues": 70,
             "owner": "numtide",
             "repo": "treefmt",
@@ -2658,7 +2691,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "treefmt (🥇23 · ⭐ 1K) - One CLI to format the code tree, using formatters such as alejandra, prettier, etc. MIT"
+      "title": "treefmt (🥇23 · ⭐ 1.1K) - One CLI to format the code tree, using formatters such as alejandra, prettier, etc. MIT"
     },
     {
       "description": null,
@@ -2666,7 +2699,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nh",
-          "description": "(👨‍💻 57 · 🔀 120 · 📥 250 · 📋 360 - 18% open · ⏱️ 22.08.2026)",
+          "description": "(👨‍💻 57 · 🔀 120 · 📥 250 · 📋 370 - 18% open · ⏱️ 28.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2676,10 +2709,10 @@
             "language": "Rust",
             "license": "EUPL-1.2",
             "last_commit": "2026-08-29T05:35:07Z",
-            "open_issues": 82,
+            "open_issues": 83,
             "owner": "nix-community",
             "repo": "nh",
-            "stars": 3158,
+            "stars": 3160,
             "topics": [
               "home-manager",
               "nix",
@@ -2692,7 +2725,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nh (🥇22 · ⭐ 3.1K) - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`. ❗️EUPL-1.2"
+      "title": "nh (🥇22 · ⭐ 3.2K) - Better output for `nix`, `nixos-rebuild`, `home-manager` and nix-darwin CLI leveraging `dix` and `nix-output-monitor`. ❗️EUPL-1.2"
     },
     {
       "description": null,
@@ -2700,7 +2733,7 @@
         {
           "node_type": "item",
           "title": "kamadorueda/alejandra",
-          "description": "(👨‍💻 29 · 🔀 56 · 📥 83K · 📦 13 · 📋 160 - 38% open · ⏱️ 25.04.2026)",
+          "description": "(👨‍💻 29 · 🔀 56 · 📥 86K · 📦 13 · 📋 160 - 38% open · ⏱️ 25.04.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2736,7 +2769,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nix-index-database",
-          "description": "(👨‍💻 40 · 🔀 50 · 📥 660K · 📋 51 - 9% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 40 · 🔀 50 · 📥 670K · 📋 51 - 9% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2745,7 +2778,7 @@
             "id": 319892982,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-23T03:57:33Z",
+            "last_commit": "2026-08-30T08:55:01Z",
             "open_issues": 10,
             "owner": "nix-community",
             "repo": "nix-index-database",
@@ -2763,7 +2796,7 @@
         {
           "node_type": "item",
           "title": "NixOS/nixpkgs-vet",
-          "description": "(👨‍💻 18 · 🔀 23 · 📥 1.2M · 📋 65 - 56% open · ⏱️ 17.08.2026)",
+          "description": "(👨‍💻 18 · 🔀 23 · 📥 1.2M · 📋 65 - 56% open · ⏱️ 25.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2793,7 +2826,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nix-init",
-          "description": "(👨‍💻 17 · 🔀 43 · 📦 1 · 📋 68 - 30% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 18 · 🔀 45 · 📋 68 - 30% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2802,11 +2835,11 @@
             "id": 590605980,
             "language": "Rust",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-29T02:02:05Z",
-            "open_issues": 28,
+            "last_commit": "2026-08-30T18:12:26Z",
+            "open_issues": 26,
             "owner": "nix-community",
             "repo": "nix-init",
-            "stars": 1460,
+            "stars": 1461,
             "topics": [
               "cargo",
               "go",
@@ -2839,10 +2872,10 @@
             "language": "Rust",
             "license": "NOASSERTION",
             "last_commit": "2026-08-16T17:46:49Z",
-            "open_issues": 98,
+            "open_issues": 99,
             "owner": "nix-community",
             "repo": "nix-index",
-            "stars": 1350,
+            "stars": 1351,
             "topics": [
               "nix",
               "nixpkgs",
@@ -2853,7 +2886,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nix-index (🥈19 · ⭐ 1.3K) - Quickly locate Nix packages with specific files. ❗Unlicensed"
+      "title": "nix-index (🥈19 · ⭐ 1.4K) - Quickly locate Nix packages with specific files. ❗Unlicensed"
     },
     {
       "description": null,
@@ -2861,7 +2894,7 @@
         {
           "node_type": "item",
           "title": "lix-project/lix",
-          "description": "(👨‍💻 710 · 🔀 21 · 📦 4 · ⏱️ 21.08.2026)",
+          "description": "(👨‍💻 710 · 🔀 21 · 📦 4 · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -2870,7 +2903,7 @@
             "id": 763269749,
             "language": "C++",
             "license": "LGPL-2.1",
-            "last_commit": "2026-08-29T19:45:48Z",
+            "last_commit": "2026-08-30T17:56:53Z",
             "open_issues": 1,
             "owner": "lix-project",
             "repo": "lix",
@@ -2882,7 +2915,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "lix (🥈19 · ⭐ 630 · 📈) - A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth. ❗️LGPL-2.1"
+      "title": "lix (🥈19 · ⭐ 630) - A modern, delicious implementation of the Nix package manager, focused on correctness, usability, and growth. ❗️LGPL-2.1"
     },
     {
       "description": null,
@@ -2912,99 +2945,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "comma (🥈18 · ⭐ 1.7K) - Quickly run any binary; wraps together `nix run` and `nix-index`. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "NixOS/nix-eval-jobs",
-          "description": "(👨‍💻 34 · 🔀 51 · 📋 55 - 27% open · ⏱️ 23.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]",
-            "homepage": null,
-            "id": 347841046,
-            "language": "C++",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-29T10:31:38Z",
-            "open_issues": 16,
-            "owner": "NixOS",
-            "repo": "nix-eval-jobs",
-            "stars": 269,
-            "topics": [
-              "build-with-buildbot"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "nix-eval-jobs (🥈18 · ⭐ 270 · 📈) - Parallel nix evaluator with a streamable json output. ❗️GPL-3.0"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "manic-systems/dix",
-          "description": "(👨‍💻 10 · 🔀 8 · 📦 21 · 📋 25 - 16% open · ⏱️ 01.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A blazingly fast tool to diff Nix related things",
-            "homepage": null,
-            "id": 977527007,
-            "language": "Rust",
-            "license": "GPL-3.0",
-            "last_commit": "2026-08-24T08:25:57Z",
-            "open_issues": 9,
-            "owner": "manic-systems",
-            "repo": "dix",
-            "stars": 343,
-            "topics": [
-              "derivation",
-              "nix",
-              "nixos"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "dix (🥈17 · ⭐ 340) - A blazingly fast tool to diff Nix related things. ❗️GPL-3.0"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "maralorn/nix-output-monitor",
-          "description": "(👨‍💻 30 · 🔀 53 · 📋 200 - 47% open · ⏱️ 11.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
-            "homepage": null,
-            "id": 300898669,
-            "language": "Haskell",
-            "license": null,
-            "last_commit": "2026-08-28T08:08:36Z",
-            "open_issues": 105,
-            "owner": "maralorn",
-            "repo": "nix-output-monitor",
-            "stars": 1648,
-            "topics": [
-              "hacktoberfest",
-              "haskell",
-              "nix",
-              "nom"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "nix-output-monitor (🥈16 · ⭐ 1.6K) - A tool to produce useful graphs and statistics when building derivations. ❗Unlicensed"
+      "title": "comma (🥈18 · ⭐ 1.8K) - Quickly run any binary; wraps together `nix run` and `nix-index`. MIT"
     },
     {
       "description": null,
@@ -3012,7 +2953,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nurl",
-          "description": "(👨‍💻 4 · 🔀 12 · 📥 1.6K · 📦 16 · 📋 26 - 53% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 4 · 🔀 12 · 📥 1.7K · 📦 16 · 📋 26 - 53% open · ⏱️ 29.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3047,37 +2988,99 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nurl (🥈16 · ⭐ 770) - Generate Nix fetcher calls from repository URLs. MPL-2.0"
+      "title": "nurl (🥈18 · ⭐ 780 · 📈) - Generate Nix fetcher calls from repository URLs. MPL-2.0"
     },
     {
       "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "DeterminateSystems/flake-checker",
-          "description": "(👨‍💻 13 · 🔀 9 · 📥 2.8K · 📦 2 · 📋 15 - 20% open · ⏱️ 08.08.2026)",
+          "title": "NixOS/nix-eval-jobs",
+          "description": "(👨‍💻 34 · 🔀 52 · 📋 55 - 23% open · ⏱️ 29.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
-            "description": "Health checks for your Nix flakes",
-            "homepage": "https://determinate.systems",
-            "id": 642848926,
-            "language": "Rust",
-            "license": "Apache-2.0",
-            "last_commit": "2026-08-26T13:08:22Z",
-            "open_issues": 12,
-            "owner": "DeterminateSystems",
-            "repo": "flake-checker",
-            "stars": 349,
+            "description": "Parallel nix evaluator with a streamable json output [maintainers @Mic92, @adisbladis]",
+            "homepage": null,
+            "id": 347841046,
+            "language": "C++",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-29T10:31:38Z",
+            "open_issues": 16,
+            "owner": "NixOS",
+            "repo": "nix-eval-jobs",
+            "stars": 270,
             "topics": [
-              "flakes",
-              "nix"
+              "build-with-buildbot"
             ]
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "flake-checker (🥈16 · ⭐ 350) - Health checks for your Nix flakes. Apache-2"
+      "title": "nix-eval-jobs (🥈18 · ⭐ 270) - Parallel nix evaluator with a streamable json output. ❗️GPL-3.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "manic-systems/dix",
+          "description": "(👨‍💻 10 · 🔀 8 · 📦 21 · 📋 25 - 16% open · ⏱️ 01.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A blazingly fast tool to diff Nix related things",
+            "homepage": null,
+            "id": 977527007,
+            "language": "Rust",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-24T08:25:57Z",
+            "open_issues": 9,
+            "owner": "manic-systems",
+            "repo": "dix",
+            "stars": 344,
+            "topics": [
+              "derivation",
+              "nix",
+              "nixos"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "dix (🥈17 · ⭐ 340) - A blazingly fast tool to diff Nix related things. ❗️GPL-3.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "maralorn/nix-output-monitor",
+          "description": "(👨‍💻 30 · 🔀 54 · 📋 200 - 47% open · ⏱️ 28.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Pipe your nix-build output through the nix-output-monitor a.k.a nom to get additional information while building.",
+            "homepage": null,
+            "id": 300898669,
+            "language": "Haskell",
+            "license": null,
+            "last_commit": "2026-08-28T08:08:36Z",
+            "open_issues": 105,
+            "owner": "maralorn",
+            "repo": "nix-output-monitor",
+            "stars": 1648,
+            "topics": [
+              "hacktoberfest",
+              "haskell",
+              "nix",
+              "nom"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "nix-output-monitor (🥈16 · ⭐ 1.6K) - A tool to produce useful graphs and statistics when building derivations. ❗Unlicensed"
     },
     {
       "description": null,
@@ -3098,7 +3101,7 @@
             "open_issues": 46,
             "owner": "oppiliappan",
             "repo": "statix",
-            "stars": 941,
+            "stars": 942,
             "topics": [
               "linter",
               "nix"
@@ -3108,6 +3111,36 @@
         }
       ],
       "title": "statix (🥈15 · ⭐ 940) - A linter/fixer to check for and fix antipatterns in Nix code. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "DeterminateSystems/flake-checker",
+          "description": "(👨‍💻 13 · 🔀 10 · 📥 2.8K · 📦 2 · 📋 15 - 20% open · ⏱️ 26.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Health checks for your Nix flakes",
+            "homepage": "https://determinate.systems",
+            "id": 642848926,
+            "language": "Rust",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-31T00:45:33Z",
+            "open_issues": 12,
+            "owner": "DeterminateSystems",
+            "repo": "flake-checker",
+            "stars": 349,
+            "topics": [
+              "flakes",
+              "nix"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "flake-checker (🥈15 · ⭐ 350 · 📉) - Health checks for your Nix flakes. Apache-2"
     },
     {
       "description": null,
@@ -3205,7 +3238,7 @@
         {
           "node_type": "item",
           "title": "MercuryTechnologies/nix-your-shell",
-          "description": "(👨‍💻 17 · 🔀 25 · 📥 280 · 📦 1 · 📋 25 - 32% open · ⏱️ 16.06.2026)",
+          "description": "(👨‍💻 17 · 🔀 26 · 📥 280 · 📦 1 · 📋 25 - 32% open · ⏱️ 16.06.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3235,7 +3268,7 @@
         {
           "node_type": "item",
           "title": "linyinfeng/angrr",
-          "description": "(👨‍💻 7 · 🔀 4 · 📋 15 - 20% open · ⏱️ 01.08.2026)",
+          "description": "(👨‍💻 7 · 🔀 4 · 📋 17 - 29% open · ⏱️ 01.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3275,7 +3308,7 @@
             "open_issues": 20,
             "owner": "utdemir",
             "repo": "nix-tree",
-            "stars": 1064,
+            "stars": 1066,
             "topics": [
               "dependency-graph",
               "hacktoberfest",
@@ -3353,7 +3386,7 @@
         {
           "node_type": "item",
           "title": "thiagokokada/nix-alien",
-          "description": "(👨‍💻 11 · 🔀 13 · 📋 38 - 2% open · ⏱️ 15.07.2026)",
+          "description": "(👨‍💻 11 · 🔀 13 · 📋 39 - 2% open · ⏱️ 15.07.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3366,7 +3399,7 @@
             "open_issues": 1,
             "owner": "thiagokokada",
             "repo": "nix-alien",
-            "stars": 869,
+            "stars": 870,
             "topics": [
               "nix",
               "nixos",
@@ -3397,7 +3430,7 @@
             "open_issues": 5,
             "owner": "astro",
             "repo": "deadnix",
-            "stars": 774,
+            "stars": 776,
             "topics": [
               "nix",
               "nix-flake",
@@ -3410,7 +3443,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "deadnix (🥈12 · ⭐ 770) - Scan Nix files for dead code. ❗️GPL-3.0"
+      "title": "deadnix (🥈12 · ⭐ 780) - Scan Nix files for dead code. ❗️GPL-3.0"
     },
     {
       "description": null,
@@ -3615,7 +3648,7 @@
             "open_issues": 3,
             "owner": "jpetrucciani",
             "repo": "pog",
-            "stars": 196,
+            "stars": 197,
             "topics": [
               "bash",
               "cli",
@@ -3696,7 +3729,7 @@
             "id": 756735122,
             "language": "Go",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-29T22:10:08Z",
+            "last_commit": "2026-08-30T20:26:53Z",
             "open_issues": 1,
             "owner": "dnr",
             "repo": "styx",
@@ -3714,7 +3747,7 @@
         {
           "node_type": "item",
           "title": "soupglasses/nix-system-graphics",
-          "description": "(👨‍💻 4 · 🔀 4 · 📋 14 - 50% open · ⏱️ 16.11.2025)",
+          "description": "(👨‍💻 4 · 🔀 5 · 📋 14 - 50% open · ⏱️ 16.11.2025)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -3734,6 +3767,37 @@
         }
       ],
       "title": "nix-system-graphics (🥉9 · ⭐ 180 · 💤) - Run graphics accelerated programs built with Nix on any Linux distribution. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "fzakaria/nix-auto-follow",
+          "description": "(👨‍💻 7 · 🔀 15 · ⏱️ 28.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A script to achieve automatically following all flake inputs for Nix",
+            "homepage": null,
+            "id": 836554450,
+            "language": "Python",
+            "license": "MIT",
+            "last_commit": "2026-08-28T23:20:48Z",
+            "open_issues": 0,
+            "owner": "fzakaria",
+            "repo": "nix-auto-follow",
+            "stars": 116,
+            "topics": [
+              "nix",
+              "nixos",
+              "nixpkgs"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "nix-auto-follow (🥉9 · ⭐ 120) - A script to achieve automatically following all flake inputs for Nix. MIT"
     },
     {
       "description": null,
@@ -3834,37 +3898,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "fzakaria/nix-auto-follow",
-          "description": "(👨‍💻 7 · 🔀 15 · 📋 11 - 9% open · ⏱️ 25.06.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A script to achieve automatically following all flake inputs for Nix",
-            "homepage": null,
-            "id": 836554450,
-            "language": "Python",
-            "license": "MIT",
-            "last_commit": "2026-08-28T23:20:48Z",
-            "open_issues": 0,
-            "owner": "fzakaria",
-            "repo": "nix-auto-follow",
-            "stars": 114,
-            "topics": [
-              "nix",
-              "nixos",
-              "nixpkgs"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "nix-auto-follow (🥉8 · ⭐ 110) - A script to achieve automatically following all flake inputs for Nix. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "figsoda/utf8",
           "description": "(👨‍💻 2 · ⏱️ 16.08.2026)",
           "children": [],
@@ -3915,7 +3948,7 @@
             "open_issues": 5,
             "owner": "antithesishq",
             "repo": "madness",
-            "stars": 310,
+            "stars": 311,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -3956,7 +3989,7 @@
         {
           "node_type": "item",
           "title": "Mic92/fast-flake-update",
-          "description": "(👨‍💻 9 · 🔀 4 · ⏱️ 22.08.2026)",
+          "description": "(👨‍💻 9 · 🔀 4 · ⏱️ 29.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4017,7 +4050,7 @@
         {
           "node_type": "item",
           "title": "remi-dupre/pinix",
-          "description": "(👨‍💻 4 · 🔀 5 · 📋 5 - 80% open · ⏱️ 14.08.2025)",
+          "description": "(👨‍💻 4 · 🔀 6 · 📋 5 - 80% open · ⏱️ 14.08.2025)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4027,7 +4060,7 @@
             "language": "Rust",
             "license": "LGPL-3.0",
             "last_commit": "2026-02-28T22:19:18Z",
-            "open_issues": 5,
+            "open_issues": 6,
             "owner": "remi-dupre",
             "repo": "pinix",
             "stars": 63,
@@ -4036,7 +4069,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "pinix (🥉5 · ⭐ 62 · 💤) - Progress In Nix - Pacman inspired frontend for Nix. ❗️LGPL-3.0"
+      "title": "pinix (🥉5 · ⭐ 63 · 💤) - Progress In Nix - Pacman inspired frontend for Nix. ❗️LGPL-3.0"
     },
     {
       "description": null,
@@ -4532,7 +4565,7 @@
         {
           "node_type": "item",
           "title": "numtide/llm-agents.nix",
-          "description": "(👨‍💻 150 · 🔀 220 · 📥 9.1K · 📋 230 - 2% open · ⏱️ 24.08.2026)",
+          "description": "(👨‍💻 150 · 🔀 230 · 📥 9.1K · 📋 230 - 2% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4541,17 +4574,17 @@
             "id": 1022026685,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T04:25:01Z",
-            "open_issues": 10,
+            "last_commit": "2026-08-31T04:42:46Z",
+            "open_issues": 13,
             "owner": "numtide",
             "repo": "llm-agents.nix",
-            "stars": 1850,
+            "stars": 1855,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "llm-agents.nix (🥇26 · ⭐ 1.8K) - Nix packages for AI coding agents and development tools. Automatically updated daily. MIT"
+      "title": "llm-agents.nix (🥇27 · ⭐ 1.9K) - Nix packages for AI coding agents and development tools. Automatically updated daily. MIT"
     },
     {
       "description": null,
@@ -4559,7 +4592,7 @@
         {
           "node_type": "item",
           "title": "utensils/mcp-nixos",
-          "description": "(👨‍💻 14 · 🔀 43 · 📋 53 - 1% open · ⏱️ 12.08.2026)",
+          "description": "(👨‍💻 14 · 🔀 43 · 📋 54 - 3% open · ⏱️ 12.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4572,7 +4605,7 @@
             "open_issues": 2,
             "owner": "utensils",
             "repo": "mcp-nixos",
-            "stars": 812,
+            "stars": 813,
             "topics": [
               "ai-assistant",
               "ai-integration",
@@ -4598,7 +4631,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "MCP-NixOS (🥈17 · ⭐ 800) - An MCP server that provides AI assistants with accurate information about NixOS packages, options, Home Manager, and.. MIT"
+      "title": "MCP-NixOS (🥈17 · ⭐ 810) - An MCP server that provides AI assistants with accurate information about NixOS packages, options, Home Manager, and.. MIT"
     },
     {
       "description": null,
@@ -4606,7 +4639,7 @@
         {
           "node_type": "item",
           "title": "natsukium/mcp-servers-nix",
-          "description": "(👨‍💻 13 · 🔀 36 · 📋 23 - 26% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 13 · 🔀 36 · 📋 24 - 29% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4615,11 +4648,11 @@
             "id": 961533901,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T03:52:53Z",
+            "last_commit": "2026-08-31T02:14:55Z",
             "open_issues": 17,
             "owner": "natsukium",
             "repo": "mcp-servers-nix",
-            "stars": 292,
+            "stars": 293,
             "topics": [
               "mcp",
               "nix"
@@ -4636,7 +4669,7 @@
         {
           "node_type": "item",
           "title": "YPares/rigup.nix",
-          "description": "(👨‍💻 5 · 🔀 4 · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 5 · 🔀 4 · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4645,7 +4678,7 @@
             "id": 1115522538,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T04:22:39Z",
+            "last_commit": "2026-08-31T04:25:40Z",
             "open_issues": 1,
             "owner": "YPares",
             "repo": "rigup.nix",
@@ -4677,7 +4710,7 @@
         {
           "node_type": "item",
           "title": "Kyure-A/agent-skills-nix",
-          "description": "(👨‍💻 10 · 🔀 16 · ⏱️ 10.08.2026)",
+          "description": "(👨‍💻 10 · 🔀 17 · ⏱️ 10.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4701,7 +4734,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "agent-skills-nix (🥉10 · ⭐ 210) - Declarative management of Agent Skills on Nix with flake-pinned sources, discovery, selection, bundling, and Home.. MIT"
+      "title": "agent-skills-nix (🥉10 · ⭐ 220) - Declarative management of Agent Skills on Nix with flake-pinned sources, discovery, selection, bundling, and Home.. MIT"
     },
     {
       "description": null,
@@ -4741,7 +4774,7 @@
         {
           "node_type": "item",
           "title": "jetify-com/devbox",
-          "description": "(👨‍💻 100 · 🔀 350 · 📥 3M · 📋 850 - 47% open · ⏱️ 16.08.2026)",
+          "description": "(👨‍💻 100 · 🔀 360 · 📥 3.1M · 📋 850 - 47% open · ⏱️ 16.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4754,7 +4787,7 @@
             "open_issues": 497,
             "owner": "jetify-com",
             "repo": "devbox",
-            "stars": 12318,
+            "stars": 12320,
             "topics": [
               "build-system",
               "build-tool",
@@ -4780,7 +4813,7 @@
         {
           "node_type": "item",
           "title": "cachix/devenv",
-          "description": "(👨‍💻 310 · 🔀 540 · 📦 1 · 📋 1.6K - 19% open · ⏱️ 21.08.2026)",
+          "description": "(👨‍💻 320 · 🔀 550 · 📦 1 · 📋 1.6K - 19% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4789,11 +4822,11 @@
             "id": 555988330,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T00:42:13Z",
-            "open_issues": 360,
+            "last_commit": "2026-08-31T00:49:39Z",
+            "open_issues": 363,
             "owner": "cachix",
             "repo": "devenv",
-            "stars": 7452,
+            "stars": 7459,
             "topics": [
               "developer-tools",
               "devenv",
@@ -4803,7 +4836,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "devenv (🥇27 · ⭐ 7.3K) - A Nix-based tool for creating developer shell environments quickly and reproducibly. Apache-2"
+      "title": "devenv (🥇27 · ⭐ 7.5K) - A Nix-based tool for creating developer shell environments quickly and reproducibly. Apache-2"
     },
     {
       "description": null,
@@ -4811,7 +4844,7 @@
         {
           "node_type": "item",
           "title": "flox/flox",
-          "description": "(👨‍💻 76 · 🔀 130 · 📥 22 · 📋 1.7K - 21% open · ⏱️ 21.08.2026)",
+          "description": "(👨‍💻 76 · 🔀 130 · 📥 22 · 📋 1.7K - 21% open · ⏱️ 28.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4820,11 +4853,11 @@
             "id": 581225647,
             "language": "Rust",
             "license": "GPL-2.0",
-            "last_commit": "2026-08-30T07:32:48Z",
-            "open_issues": 440,
+            "last_commit": "2026-08-30T09:26:02Z",
+            "open_issues": 442,
             "owner": "flox",
             "repo": "flox",
-            "stars": 4109,
+            "stars": 4112,
             "topics": [
               "developer-tools",
               "development-environment",
@@ -4838,7 +4871,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "flox (🥇23 · ⭐ 4.1K · 📈) - Manage and share development environments, package projects, and publish artifacts anywhere. ❗️GPL-2.0"
+      "title": "flox (🥇23 · ⭐ 4.1K) - Manage and share development environments, package projects, and publish artifacts anywhere. ❗️GPL-2.0"
     },
     {
       "description": null,
@@ -4846,7 +4879,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nix-direnv",
-          "description": "(👨‍💻 91 · 🔀 150 · 📋 240 - 2% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 91 · 🔀 150 · 📋 240 - 1% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4855,11 +4888,11 @@
             "id": 211264092,
             "language": "Shell",
             "license": "MIT",
-            "last_commit": "2026-08-30T02:11:45Z",
-            "open_issues": 9,
+            "last_commit": "2026-08-30T17:17:22Z",
+            "open_issues": 7,
             "owner": "nix-community",
             "repo": "nix-direnv",
-            "stars": 2766,
+            "stars": 2768,
             "topics": [
               "hacktoberfest",
               "managed-by-renovate"
@@ -4876,7 +4909,7 @@
         {
           "node_type": "item",
           "title": "Mic92/nixpkgs-review",
-          "description": "(👨‍💻 83 · 🔀 100 · 📋 230 - 28% open · ⏱️ 22.08.2026)",
+          "description": "(👨‍💻 83 · 🔀 100 · 📋 230 - 28% open · ⏱️ 29.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4907,7 +4940,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nixd",
-          "description": "(👨‍💻 61 · 🔀 75 · 📋 320 - 26% open · ⏱️ 10.08.2026)",
+          "description": "(👨‍💻 61 · 🔀 75 · 📋 320 - 26% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4916,8 +4949,8 @@
             "id": 638852262,
             "language": "C++",
             "license": "LGPL-3.0",
-            "last_commit": "2026-08-24T10:06:02Z",
-            "open_issues": 106,
+            "last_commit": "2026-08-31T05:10:39Z",
+            "open_issues": 107,
             "owner": "nix-community",
             "repo": "nixd",
             "stars": 1471,
@@ -4948,7 +4981,7 @@
             "language": "Python",
             "license": "MIT",
             "last_commit": "2026-08-30T06:13:05Z",
-            "open_issues": 53,
+            "open_issues": 54,
             "owner": "Mic92",
             "repo": "nix-update",
             "stars": 870,
@@ -4965,7 +4998,7 @@
         {
           "node_type": "item",
           "title": "nix-community/harmonia",
-          "description": "(👨‍💻 33 · 🔀 35 · 📦 11 · 📋 32 - 6% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 34 · 🔀 36 · 📦 11 · 📋 32 - 6% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -4974,8 +5007,8 @@
             "id": 592082640,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-27T19:25:12Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-31T06:55:02Z",
+            "open_issues": 4,
             "owner": "nix-community",
             "repo": "harmonia",
             "stars": 597,
@@ -4986,7 +5019,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "harmonia (🥇19 · ⭐ 590) - Nix binary cache implemented in Rust. ❗Unlicensed"
+      "title": "harmonia (🥇19 · ⭐ 600) - Nix binary cache implemented in Rust. ❗Unlicensed"
     },
     {
       "description": null,
@@ -4994,7 +5027,7 @@
         {
           "node_type": "item",
           "title": "Mic92/nix-fast-build",
-          "description": "(👨‍💻 23 · 🔀 39 · 📥 110 · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 24 · 🔀 39 · 📥 270 · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5003,7 +5036,7 @@
             "id": 688842677,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T07:46:00Z",
+            "last_commit": "2026-08-30T12:41:37Z",
             "open_issues": 0,
             "owner": "Mic92",
             "repo": "nix-fast-build",
@@ -5016,7 +5049,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nix-fast-build (🥇19 · ⭐ 530) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process. MIT"
+      "title": "nix-fast-build (🥇19 · ⭐ 540) - Combine the power of nix-eval-jobs with nix-output-monitor to speed-up your evaluation and building process. MIT"
     },
     {
       "description": null,
@@ -5024,7 +5057,7 @@
         {
           "node_type": "item",
           "title": "oxalica/nil",
-          "description": "(👨‍💻 35 · 🔀 71 · 📋 120 - 24% open · ⏱️ 26.07.2026)",
+          "description": "(👨‍💻 35 · 🔀 72 · 📋 120 - 24% open · ⏱️ 26.07.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5037,7 +5070,7 @@
             "open_issues": 34,
             "owner": "oxalica",
             "repo": "nil",
-            "stars": 1902,
+            "stars": 1903,
             "topics": [
               "lsp-server",
               "nix",
@@ -5056,7 +5089,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nix-ld",
-          "description": "(👨‍💻 21 · 🔀 26 · 📋 41 - 26% open · ⏱️ 17.08.2026)",
+          "description": "(👨‍💻 21 · 🔀 26 · 📋 41 - 26% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5069,7 +5102,7 @@
             "open_issues": 13,
             "owner": "nix-community",
             "repo": "nix-ld",
-            "stars": 1699,
+            "stars": 1701,
             "topics": [
               "build-with-buildbot",
               "managed-by-renovate"
@@ -5147,6 +5180,33 @@
       "items": [
         {
           "node_type": "item",
+          "title": "andir/npins",
+          "description": "(👨‍💻 36 · 🔀 45 · 📋 95 - 32% open · ⏱️ 30.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.",
+            "homepage": null,
+            "id": 391394405,
+            "language": "Rust",
+            "license": "EUPL-1.2",
+            "last_commit": "2026-08-30T16:04:17Z",
+            "open_issues": 35,
+            "owner": "andir",
+            "repo": "npins",
+            "stars": 563,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "npins (🥈17 · ⭐ 560) - A simple tool for handling different types of dependencies in a Nix project. ❗️EUPL-1.2"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "gytis-ivaskevicius/flake-utils-plus",
           "description": "(👨‍💻 24 · 🔀 45 · 📋 62 - 8% open · ⏱️ 23.05.2026)",
           "children": [],
@@ -5194,7 +5254,7 @@
             "open_issues": 164,
             "owner": "zhaofengli",
             "repo": "attic",
-            "stars": 2039,
+            "stars": 2041,
             "topics": [
               "binary-cache",
               "nix",
@@ -5256,7 +5316,7 @@
             "open_issues": 98,
             "owner": "numtide",
             "repo": "devshell",
-            "stars": 1549,
+            "stars": 1550,
             "topics": [
               "direnv",
               "nix",
@@ -5273,95 +5333,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "cachix/cachix",
-          "description": "(👨‍💻 22 · 🔀 57 · 📋 380 - 31% open · ⏱️ 17.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Command line client for Nix binary cache hosting:",
-            "homepage": "https://cachix.org",
-            "id": 122870796,
-            "language": "Haskell",
-            "license": null,
-            "last_commit": "2026-08-17T19:09:15Z",
-            "open_issues": 125,
-            "owner": "cachix",
-            "repo": "cachix",
-            "stars": 1112,
-            "topics": [
-              "dhall",
-              "haskell",
-              "nix",
-              "nixos",
-              "servant"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "cachix (🥈16 · ⭐ 1.1K) - Command line client for Nix binary cache hosting. ❗Unlicensed"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nix-community/lorri",
-          "description": "(👨‍💻 59 · 🔀 27 · 📋 78 - 34% open · ⏱️ 29.04.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Your project’s nix-env [maintainer=@Profpatsch,@nyarly]",
-            "homepage": null,
-            "id": 332479921,
-            "language": "Go",
-            "license": "Apache-2.0",
-            "last_commit": "2026-04-29T23:16:46Z",
-            "open_issues": 24,
-            "owner": "nix-community",
-            "repo": "lorri",
-            "stars": 871,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "lorri (🥈16 · ⭐ 870) - A much better `nix-shell` for development that augments direnv. Apache-2"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "andir/npins",
-          "description": "(👨‍💻 35 · 🔀 45 · 📋 95 - 36% open · ⏱️ 07.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Nix dependency pinning. Very similar to Niv but has a few features that I personally wanted.",
-            "homepage": null,
-            "id": 391394405,
-            "language": "Rust",
-            "license": "EUPL-1.2",
-            "last_commit": "2026-08-28T13:57:14Z",
-            "open_issues": 37,
-            "owner": "andir",
-            "repo": "npins",
-            "stars": 563,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "npins (🥈16 · ⭐ 560) - A simple tool for handling different types of dependencies in a Nix project. ❗️EUPL-1.2"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "hercules-ci/flake-parts",
-          "description": "(👨‍💻 26 · 🔀 77 · 📋 130 - 48% open · ⏱️ 01.08.2026)",
+          "description": "(👨‍💻 26 · 🔀 77 · 📋 130 - 48% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5374,7 +5347,7 @@
             "open_issues": 76,
             "owner": "hercules-ci",
             "repo": "flake-parts",
-            "stars": 1455,
+            "stars": 1458,
             "topics": [
               "flake-parts",
               "flakes",
@@ -5386,7 +5359,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "flake.parts (🥈15 · ⭐ 1.4K) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules. MIT"
+      "title": "flake.parts (🥈16 · ⭐ 1.5K) - Minimal Nix modules framework for Flakes: split your flakes into modules and get things done with community modules. MIT"
     },
     {
       "description": null,
@@ -5424,7 +5397,102 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "dream2nix (🥈15 · ⭐ 1.3K · 📈) - A framework for automatically converting packages from other build systems to Nix. MIT"
+      "title": "dream2nix (🥈16 · ⭐ 1.3K) - A framework for automatically converting packages from other build systems to Nix. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "cachix/cachix",
+          "description": "(👨‍💻 22 · 🔀 57 · 📋 380 - 31% open · ⏱️ 17.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Command line client for Nix binary cache hosting:",
+            "homepage": "https://cachix.org",
+            "id": 122870796,
+            "language": "Haskell",
+            "license": null,
+            "last_commit": "2026-08-31T02:31:33Z",
+            "open_issues": 126,
+            "owner": "cachix",
+            "repo": "cachix",
+            "stars": 1112,
+            "topics": [
+              "dhall",
+              "haskell",
+              "nix",
+              "nixos",
+              "servant"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "cachix (🥈16 · ⭐ 1.1K) - Command line client for Nix binary cache hosting. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "aksiksi/compose2nix",
+          "description": "(👨‍💻 8 · 🔀 20 · 📋 57 - 14% open · ⏱️ 25.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Generate a NixOS config from a Docker Compose project.",
+            "homepage": null,
+            "id": 712686667,
+            "language": "Go",
+            "license": "MIT",
+            "last_commit": "2026-08-25T03:50:04Z",
+            "open_issues": 13,
+            "owner": "aksiksi",
+            "repo": "compose2nix",
+            "stars": 892,
+            "topics": [
+              "containers",
+              "docker",
+              "docker-compose",
+              "nix",
+              "nixos",
+              "podman",
+              "podman-compose"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "compose2nix (🥈16 · ⭐ 890) - Generate a NixOS config from a Docker Compose project. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nix-community/lorri",
+          "description": "(👨‍💻 59 · 🔀 27 · 📋 78 - 30% open · ⏱️ 29.04.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Your project’s nix-env [maintainer=@Profpatsch,@nyarly]",
+            "homepage": null,
+            "id": 332479921,
+            "language": "Go",
+            "license": "Apache-2.0",
+            "last_commit": "2026-04-29T23:16:46Z",
+            "open_issues": 24,
+            "owner": "nix-community",
+            "repo": "lorri",
+            "stars": 871,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "lorri (🥈16 · ⭐ 870) - A much better `nix-shell` for development that augments direnv. Apache-2"
     },
     {
       "description": null,
@@ -5463,41 +5531,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "aksiksi/compose2nix",
-          "description": "(👨‍💻 8 · 🔀 20 · 📋 56 - 12% open · ⏱️ 09.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Generate a NixOS config from a Docker Compose project.",
-            "homepage": null,
-            "id": 712686667,
-            "language": "Go",
-            "license": "MIT",
-            "last_commit": "2026-08-25T03:50:04Z",
-            "open_issues": 13,
-            "owner": "aksiksi",
-            "repo": "compose2nix",
-            "stars": 892,
-            "topics": [
-              "containers",
-              "docker",
-              "docker-compose",
-              "nix",
-              "nixos",
-              "podman",
-              "podman-compose"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "compose2nix (🥈15 · ⭐ 890) - Generate a NixOS config from a Docker Compose project. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "numtide/treefmt-nix",
           "description": "(👨‍💻 140 · 🔀 180 · 📋 130 - 38% open · ⏱️ 16.08.2026)",
           "children": [],
@@ -5512,7 +5545,7 @@
             "open_issues": 94,
             "owner": "numtide",
             "repo": "treefmt-nix",
-            "stars": 642,
+            "stars": 643,
             "topics": [
               "buildbot-numtide",
               "flake-parts",
@@ -5531,7 +5564,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nixpkgs-update",
-          "description": "(👨‍💻 61 · 🔀 98 · 📋 310 - 38% open · ⏱️ 21.08.2026)",
+          "description": "(👨‍💻 61 · 🔀 99 · 📋 310 - 39% open · ⏱️ 21.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5550,7 +5583,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nixpkgs-update (🥈15 · ⭐ 610) - Semi-automatic updating of nixpkgs packages. ❗️CC0-1.0"
+      "title": "nixpkgs-update (🥈15 · ⭐ 620) - Semi-automatic updating of nixpkgs packages. ❗️CC0-1.0"
     },
     {
       "description": null,
@@ -5558,7 +5591,7 @@
         {
           "node_type": "item",
           "title": "nix-community/rnix-parser",
-          "description": "(👨‍💻 32 · 🔀 53 · 📦 2 · 📋 59 - 11% open · ⏱️ 07.07.2026)",
+          "description": "(👨‍💻 33 · 🔀 53 · 📦 2 · 📋 59 - 11% open · ⏱️ 26.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5581,7 +5614,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "rnix-parser (🥈15 · ⭐ 480) - A Nix parser written in Rust. MIT"
+      "title": "rnix-parser (🥈15 · ⭐ 490) - A Nix parser written in Rust. MIT"
     },
     {
       "description": null,
@@ -5598,7 +5631,7 @@
             "id": 177118018,
             "language": "JavaScript",
             "license": "MIT",
-            "last_commit": "2026-08-26T17:59:48Z",
+            "last_commit": "2026-08-30T17:50:26Z",
             "open_issues": 31,
             "owner": "nix-community",
             "repo": "tree-sitter-nix",
@@ -5616,7 +5649,7 @@
         {
           "node_type": "item",
           "title": "a-kenji/flake-edit",
-          "description": "(👨‍💻 4 · 🔀 1 · 📋 43 - 20% open · ⏱️ 17.08.2026)",
+          "description": "(👨‍💻 4 · 🔀 1 · 📋 43 - 20% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5644,7 +5677,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "flake-edit (🥈15 · ⭐ 79) - Edit your flake inputs with ease. MIT"
+      "title": "flake-edit (🥈15 · ⭐ 80) - Edit your flake inputs with ease. MIT"
     },
     {
       "description": null,
@@ -5732,7 +5765,7 @@
             "open_issues": 4,
             "owner": "nix-community",
             "repo": "nix-unit",
-            "stars": 140,
+            "stars": 141,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -5745,8 +5778,35 @@
       "items": [
         {
           "node_type": "item",
+          "title": "nix-community/robotnix",
+          "description": "(👨‍💻 33 · 🔀 95 · 📋 140 - 45% open · ⏱️ 29.05.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]",
+            "homepage": null,
+            "id": 192943429,
+            "language": "Nix",
+            "license": null,
+            "last_commit": "2026-08-23T21:47:48Z",
+            "open_issues": 82,
+            "owner": "nix-community",
+            "repo": "robotnix",
+            "stars": 803,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "robotnix (🥉13 · ⭐ 800) - A declarative and reproducible build system for Android (AOSP) images. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "nix-community/flakelight",
-          "description": "(👨‍💻 8 · 🔀 11 · 📋 31 - 9% open · ⏱️ 17.08.2026)",
+          "description": "(👨‍💻 8 · 🔀 11 · 📋 31 - 9% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5786,7 +5846,7 @@
             "open_issues": 7,
             "owner": "loqusion",
             "repo": "typix",
-            "stars": 327,
+            "stars": 328,
             "topics": [
               "nix",
               "typst"
@@ -5803,7 +5863,7 @@
         {
           "node_type": "item",
           "title": "berberman/nvfetcher",
-          "description": "(👨‍💻 18 · 🔀 22 · 📋 71 - 23% open · ⏱️ 13.03.2026)",
+          "description": "(👨‍💻 18 · 🔀 23 · 📋 71 - 23% open · ⏱️ 13.03.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5868,35 +5928,8 @@
       "items": [
         {
           "node_type": "item",
-          "title": "nix-community/robotnix",
-          "description": "(👨‍💻 33 · 🔀 95 · 📋 140 - 45% open · ⏱️ 29.05.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Build Android (AOSP) using Nix [maintainer=@danielfullmer,@Atemu,@cyclic-pentane]",
-            "homepage": null,
-            "id": 192943429,
-            "language": "Nix",
-            "license": null,
-            "last_commit": "2026-08-23T21:47:48Z",
-            "open_issues": 82,
-            "owner": "nix-community",
-            "repo": "robotnix",
-            "stars": 803,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "robotnix (🥉12 · ⭐ 800) - A declarative and reproducible build system for Android (AOSP) images. ❗Unlicensed"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "nix-community/nixos-vscode-server",
-          "description": "(👨‍💻 21 · 🔀 80 · 📋 60 - 20% open · ⏱️ 17.07.2026)",
+          "description": "(👨‍💻 21 · 🔀 79 · 📋 60 - 20% open · ⏱️ 17.07.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -5909,7 +5942,7 @@
             "open_issues": 14,
             "owner": "nix-community",
             "repo": "nixos-vscode-server",
-            "stars": 555,
+            "stars": 556,
             "topics": [
               "nixos",
               "nixos-module",
@@ -5928,7 +5961,7 @@
         {
           "node_type": "item",
           "title": "lilyinstarlight/zmk-nix",
-          "description": "(👨‍💻 11 · 🔀 32 · 📋 12 - 58% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 11 · 🔀 32 · 📋 13 - 61% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6016,8 +6049,35 @@
       "items": [
         {
           "node_type": "item",
+          "title": "nix-community/zephyr-nix",
+          "description": "(👨‍💻 11 · 🔀 30 · 📋 12 - 16% open · ⏱️ 24.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]",
+            "homepage": null,
+            "id": 753393071,
+            "language": "Nix",
+            "license": "MIT",
+            "last_commit": "2026-08-24T14:22:07Z",
+            "open_issues": 2,
+            "owner": "nix-community",
+            "repo": "zephyr-nix",
+            "stars": 90,
+            "topics": []
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "zephyr-nix (🥉11 · ⭐ 90) - Develop Zephyr projects using Nix. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "a-kenji/zellij-nix",
-          "description": "(👨‍💻 5 · 🔀 4 · 📋 5 - 80% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 5 · 🔀 4 · 📋 5 - 80% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -6026,7 +6086,7 @@
             "id": 341696812,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:19:32Z",
+            "last_commit": "2026-08-30T12:37:56Z",
             "open_issues": 7,
             "owner": "a-kenji",
             "repo": "zellij-nix",
@@ -6073,33 +6133,6 @@
         }
       ],
       "title": "gitignore.nix (🥉10 · ⭐ 290 · 💤) - The most feature-complete and easy-to-use `.gitignore` integration. Unlicense"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nix-community/zephyr-nix",
-          "description": "(👨‍💻 11 · 🔀 30 · 📋 12 - 16% open · ⏱️ 19.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Develop Zephyr projects using Nix [maintainer=@adisbladis,@otavio]",
-            "homepage": null,
-            "id": 753393071,
-            "language": "Nix",
-            "license": "MIT",
-            "last_commit": "2026-08-24T14:22:07Z",
-            "open_issues": 2,
-            "owner": "nix-community",
-            "repo": "zephyr-nix",
-            "stars": 90,
-            "topics": []
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "zephyr-nix (🥉10 · ⭐ 89) - Develop Zephyr projects using Nix. MIT"
     },
     {
       "description": null,
@@ -6379,7 +6412,7 @@
             "open_issues": 5,
             "owner": "pdtpartners",
             "repo": "globset",
-            "stars": 81,
+            "stars": 82,
             "topics": [
               "fileset",
               "glob",
@@ -6390,7 +6423,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "globset (🥉6 · ⭐ 81 · 💤) - Simplify Nix source management using familiar glob patterns. MIT"
+      "title": "globset (🥉6 · ⭐ 82 · 💤) - Simplify Nix source management using familiar glob patterns. MIT"
     },
     {
       "description": null,
@@ -6708,7 +6741,7 @@
             "open_issues": 2,
             "owner": "polygon",
             "repo": "nix-buildproxy",
-            "stars": 126,
+            "stars": 127,
             "topics": [
               "build-tool",
               "cmake",
@@ -7022,7 +7055,7 @@
         {
           "node_type": "item",
           "title": "arnarg/nixidy",
-          "description": "(👨‍💻 18 · 🔀 24 · 📦 2 · 📋 44 - 2% open · ⏱️ 14.08.2026)",
+          "description": "(👨‍💻 18 · 🔀 25 · 📦 2 · 📋 44 - 2% open · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7110,7 +7143,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "amis (🥈12 · ⭐ 85) - Home for NixOS AMI automation. MIT"
+      "title": "amis (🥈12 · ⭐ 84) - Home for NixOS AMI automation. MIT"
     },
     {
       "description": null,
@@ -7294,7 +7327,7 @@
         {
           "node_type": "item",
           "title": "nix-otel",
-          "description": "(🥉8 · ⭐ 76 · 💀) - Nix OpenTelemetry sender plugin. MIT",
+          "description": "(🥉8 · ⭐ 77 · 💀) - Nix OpenTelemetry sender plugin. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7342,7 +7375,7 @@
         {
           "node_type": "item",
           "title": "nickel-lang/nickel",
-          "description": "(👨‍💻 98 · 🔀 120 · 📥 170K · 📋 710 - 19% open · ⏱️ 09.08.2026)",
+          "description": "(👨‍💻 97 · 🔀 120 · 📥 170K · 📋 710 - 19% open · ⏱️ 09.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7355,7 +7388,7 @@
             "open_issues": 159,
             "owner": "nickel-lang",
             "repo": "nickel",
-            "stars": 2985,
+            "stars": 2986,
             "topics": [
               "configuration",
               "configuration-language",
@@ -7376,7 +7409,7 @@
         {
           "node_type": "item",
           "title": "input-output-hk/haskell.nix",
-          "description": "(👨‍💻 170 · 🔀 250 · 📥 38K · 📋 980 - 8% open · ⏱️ 24.08.2026)",
+          "description": "(👨‍💻 170 · 🔀 250 · 📥 39K · 📋 980 - 8% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7385,7 +7418,7 @@
             "id": 130384443,
             "language": "Nix",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T01:12:01Z",
+            "last_commit": "2026-08-31T01:13:58Z",
             "open_issues": 104,
             "owner": "input-output-hk",
             "repo": "haskell.nix",
@@ -7436,7 +7469,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "crane (🥇20 · ⭐ 1.4K) - A Nix library for building Cargo projects with incremental artifact caching. MIT"
+      "title": "crane (🥇20 · ⭐ 1.5K) - A Nix library for building Cargo projects with incremental artifact caching. MIT"
     },
     {
       "description": null,
@@ -7478,7 +7511,7 @@
         {
           "node_type": "item",
           "title": "oxalica/rust-overlay",
-          "description": "(👨‍💻 28 · 🔀 86 · 📋 180 - 9% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 28 · 🔀 86 · 📋 180 - 9% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7487,7 +7520,7 @@
             "id": 325973252,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-29T08:52:56Z",
+            "last_commit": "2026-08-30T08:10:33Z",
             "open_issues": 23,
             "owner": "oxalica",
             "repo": "rust-overlay",
@@ -7501,7 +7534,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "rust-overlay (🥇19 · ⭐ 1.5K) - Pure and reproducible nix overlay of binary distributed Rust toolchains. MIT"
+      "title": "rust-overlay (🥇19 · ⭐ 1.6K) - Pure and reproducible nix overlay of binary distributed Rust toolchains. MIT"
     },
     {
       "description": null,
@@ -7509,7 +7542,7 @@
         {
           "node_type": "item",
           "title": "nix-community/fenix",
-          "description": "(👨‍💻 33 · 🔀 66 · 📋 110 - 30% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 33 · 🔀 66 · 📋 110 - 29% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7518,7 +7551,7 @@
             "id": 326285915,
             "language": "Nix",
             "license": "MPL-2.0",
-            "last_commit": "2026-08-29T12:54:49Z",
+            "last_commit": "2026-08-30T12:00:27Z",
             "open_issues": 38,
             "owner": "nix-community",
             "repo": "fenix",
@@ -7570,7 +7603,7 @@
         {
           "node_type": "item",
           "title": "tadfisher/android-nixpkgs",
-          "description": "(👨‍💻 18 · 🔀 46 · 📋 65 - 47% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 18 · 🔀 46 · 📋 66 - 48% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7579,7 +7612,7 @@
             "id": 153979299,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-29T22:20:42Z",
+            "last_commit": "2026-08-30T22:24:59Z",
             "open_issues": 32,
             "owner": "tadfisher",
             "repo": "android-nixpkgs",
@@ -7655,7 +7688,7 @@
         {
           "node_type": "item",
           "title": "90-008/nix-cargo-integration",
-          "description": "(👨‍💻 16 · 🔀 26 · 📋 89 - 5% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 16 · 🔀 26 · 📋 89 - 5% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7664,7 +7697,7 @@
             "id": 356708265,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-29T12:01:05Z",
+            "last_commit": "2026-08-30T10:57:52Z",
             "open_issues": 5,
             "owner": "90-008",
             "repo": "nix-cargo-integration",
@@ -7725,7 +7758,7 @@
         {
           "node_type": "item",
           "title": "pyproject-nix/uv2nix",
-          "description": "(👨‍💻 21 · 🔀 41 · 📋 64 - 1% open · ⏱️ 13.08.2026)",
+          "description": "(👨‍💻 21 · 🔀 41 · 📋 64 - 1% open · ⏱️ 29.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7744,7 +7777,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "uv2nix (🥈15 · ⭐ 770) - Ingest uv workspaces using Nix. MIT"
+      "title": "uv2nix (🥈15 · ⭐ 780) - Ingest uv workspaces using Nix. MIT"
     },
     {
       "description": null,
@@ -7857,7 +7890,7 @@
             "open_issues": 0,
             "owner": "tvlfyi",
             "repo": "tvix",
-            "stars": 1086,
+            "stars": 1087,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -7884,7 +7917,7 @@
             "open_issues": 8,
             "owner": "justinwoo",
             "repo": "easy-purescript-nix",
-            "stars": 211,
+            "stars": 212,
             "topics": [
               "nix",
               "purescript"
@@ -7901,7 +7934,7 @@
         {
           "node_type": "item",
           "title": "lenianiva/lean4-nix",
-          "description": "(👨‍💻 7 · 🔀 18 · 📋 41 - 14% open · ⏱️ 22.07.2026)",
+          "description": "(👨‍💻 7 · 🔀 19 · 📋 41 - 14% open · ⏱️ 27.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -7989,6 +8022,37 @@
       "items": [
         {
           "node_type": "item",
+          "title": "loophp/nix-shell",
+          "description": "(👨‍💻 9 · 🔀 14 · 📋 16 - 25% open · ⏱️ 24.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Nix shells for PHP development",
+            "homepage": null,
+            "id": 378579961,
+            "language": "Nix",
+            "license": "MIT",
+            "last_commit": "2026-08-24T16:10:45Z",
+            "open_issues": 4,
+            "owner": "loophp",
+            "repo": "nix-shell",
+            "stars": 179,
+            "topics": [
+              "experimental",
+              "nix",
+              "shell"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "nix-shell (🥉12 · ⭐ 180) - Nix shells for PHP development. MIT"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "nix-community/zon2nix",
           "description": "(👨‍💻 8 · 🔀 21 · 📋 19 - 36% open · ⏱️ 13.04.2026)",
           "children": [],
@@ -8016,37 +8080,6 @@
         }
       ],
       "title": "zon2nix (🥉12 · ⭐ 130) - Convert the dependencies in `build.zig.zon` to a Nix expression. MPL-2.0"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "loophp/nix-shell",
-          "description": "(👨‍💻 9 · 🔀 14 · 📋 16 - 25% open · ⏱️ 10.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Nix shells for PHP development",
-            "homepage": null,
-            "id": 378579961,
-            "language": "Nix",
-            "license": "MIT",
-            "last_commit": "2026-08-24T16:10:45Z",
-            "open_issues": 4,
-            "owner": "loophp",
-            "repo": "nix-shell",
-            "stars": 179,
-            "topics": [
-              "experimental",
-              "nix",
-              "shell"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "nix-shell (🥉11 · ⭐ 180) - Nix shells for PHP development. MIT"
     },
     {
       "description": null,
@@ -8220,13 +8253,13 @@
             "open_issues": 3,
             "owner": "yliceee",
             "repo": "tex2nix",
-            "stars": 99,
+            "stars": 100,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "tex2nix (🥉7 · ⭐ 99 · 💤) - Generate texlive nix expressions for documents. MIT"
+      "title": "tex2nix (🥉7 · ⭐ 100 · 💤) - Generate texlive nix expressions for documents. MIT"
     },
     {
       "description": null,
@@ -8325,7 +8358,7 @@
             "id": 192372472,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:55:36Z",
+            "last_commit": "2026-08-31T07:50:05Z",
             "open_issues": 188,
             "owner": "nix-community",
             "repo": "poetry2nix",
@@ -8353,7 +8386,7 @@
             "open_issues": 214,
             "owner": "DavHau",
             "repo": "mach-nix",
-            "stars": 888,
+            "stars": 887,
             "topics": [
               "mach-nix",
               "nix",
@@ -8938,7 +8971,7 @@
         {
           "node_type": "item",
           "title": "nix-community/home-manager",
-          "description": "(👨‍💻 1.7K · 🔀 2.4K · 📋 3.3K - 21% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 1.7K · 🔀 2.4K · 📋 3.3K - 21% open · ⏱️ 27.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -8947,11 +8980,11 @@
             "id": 78938149,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T03:48:17Z",
-            "open_issues": 1001,
+            "last_commit": "2026-08-31T03:26:44Z",
+            "open_issues": 1009,
             "owner": "nix-community",
             "repo": "home-manager",
-            "stars": 10297,
+            "stars": 10299,
             "topics": [
               "dotfiles",
               "nix",
@@ -9006,7 +9039,7 @@
         {
           "node_type": "item",
           "title": "NixOS/nixos-hardware",
-          "description": "(👨‍💻 560 · 🔀 940 · 📥 1.9K · 📋 450 - 43% open · ⏱️ 19.08.2026)",
+          "description": "(👨‍💻 560 · 🔀 950 · 📥 1.9K · 📋 450 - 43% open · ⏱️ 29.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9016,10 +9049,10 @@
             "language": "Nix",
             "license": "CC0-1.0",
             "last_commit": "2026-08-29T23:16:58Z",
-            "open_issues": 312,
+            "open_issues": 313,
             "owner": "NixOS",
             "repo": "nixos-hardware",
-            "stars": 3288,
+            "stars": 3290,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -9046,7 +9079,7 @@
             "open_issues": 474,
             "owner": "nix-darwin",
             "repo": "nix-darwin",
-            "stars": 5889,
+            "stars": 5890,
             "topics": [
               "darwin",
               "dotfiles",
@@ -9057,7 +9090,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nix-darwin (🥇21 · ⭐ 5.9K · 📉) - Manage macOS configuration just like on NixOS. MIT"
+      "title": "nix-darwin (🥇21 · ⭐ 5.9K) - Manage macOS configuration just like on NixOS. MIT"
     },
     {
       "description": null,
@@ -9065,7 +9098,7 @@
         {
           "node_type": "item",
           "title": "fort-nix/nix-bitcoin",
-          "description": "(👨‍💻 31 · 🔀 140 · 📥 8.8K · 📋 220 - 18% open · ⏱️ 15.08.2026)",
+          "description": "(👨‍💻 31 · 🔀 140 · 📥 8.9K · 📋 220 - 18% open · ⏱️ 15.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9074,7 +9107,7 @@
             "id": 160699139,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-15T16:13:39Z",
+            "last_commit": "2026-08-31T07:11:07Z",
             "open_issues": 60,
             "owner": "fort-nix",
             "repo": "nix-bitcoin",
@@ -9099,7 +9132,7 @@
         {
           "node_type": "item",
           "title": "nix-community/lanzaboote",
-          "description": "(👨‍💻 55 · 🔀 120 · 📋 200 - 16% open · ⏱️ 17.08.2026)",
+          "description": "(👨‍💻 55 · 🔀 120 · 📋 200 - 16% open · ⏱️ 25.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9108,8 +9141,8 @@
             "id": 568764733,
             "language": "Rust",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-25T11:47:15Z",
-            "open_issues": 42,
+            "last_commit": "2026-08-31T02:09:57Z",
+            "open_issues": 44,
             "owner": "nix-community",
             "repo": "lanzaboote",
             "stars": 1824,
@@ -9137,7 +9170,7 @@
         {
           "node_type": "item",
           "title": "Jovian-Experiments/Jovian-NixOS",
-          "description": "(👨‍💻 24 · 🔀 84 · 📋 180 - 25% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 24 · 🔀 84 · 📋 180 - 25% open · ⏱️ 28.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9150,7 +9183,7 @@
             "open_issues": 63,
             "owner": "Jovian-Experiments",
             "repo": "Jovian-NixOS",
-            "stars": 1009,
+            "stars": 1010,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -9164,7 +9197,7 @@
         {
           "node_type": "item",
           "title": "nix-community/srvos",
-          "description": "(👨‍💻 50 · 🔀 59 · 📋 49 - 16% open · ⏱️ 20.08.2026)",
+          "description": "(👨‍💻 51 · 🔀 61 · 📋 49 - 16% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9173,7 +9206,7 @@
             "id": 573074151,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-27T02:35:10Z",
+            "last_commit": "2026-08-31T02:28:44Z",
             "open_issues": 11,
             "owner": "nix-community",
             "repo": "srvos",
@@ -9194,7 +9227,7 @@
         {
           "node_type": "item",
           "title": "ibizaman/selfhostblocks",
-          "description": "(👨‍💻 19 · 🔀 19 · 📋 190 - 62% open · ⏱️ 20.08.2026)",
+          "description": "(👨‍💻 19 · 🔀 19 · 📋 190 - 62% open · ⏱️ 29.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9203,8 +9236,8 @@
             "id": 579512254,
             "language": "Nix",
             "license": "AGPL-3.0",
-            "last_commit": "2026-08-30T05:35:05Z",
-            "open_issues": 122,
+            "last_commit": "2026-08-31T02:41:09Z",
+            "open_issues": 124,
             "owner": "ibizaman",
             "repo": "selfhostblocks",
             "stars": 493,
@@ -9225,8 +9258,38 @@
       "items": [
         {
           "node_type": "item",
+          "title": "nix-community/nixos-facter",
+          "description": "(👨‍💻 15 · 🔀 21 · 📋 120 - 50% open · ⏱️ 24.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]",
+            "homepage": "https://nix-community.github.io/nixos-facter/",
+            "id": 814052480,
+            "language": "Go",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-30T07:55:27Z",
+            "open_issues": 70,
+            "owner": "nix-community",
+            "repo": "nixos-facter",
+            "stars": 705,
+            "topics": [
+              "nix",
+              "nixos"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "nixos-facter (🥈16 · ⭐ 700) - Declarative hardware configuration for NixOS. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "Infinidoge/nix-minecraft",
-          "description": "(👨‍💻 30 · 🔀 83 · 📋 100 - 35% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 30 · 🔀 83 · 📋 100 - 35% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9235,11 +9298,11 @@
             "id": 485231921,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T05:00:56Z",
+            "last_commit": "2026-08-31T05:07:39Z",
             "open_issues": 46,
             "owner": "Infinidoge",
             "repo": "nix-minecraft",
-            "stars": 610,
+            "stars": 615,
             "topics": [
               "minecraft",
               "nix",
@@ -9250,7 +9313,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nix-minecraft (🥈16 · ⭐ 600) - An attempt to better support Minecraft-related content for the Nix ecosystem. MIT"
+      "title": "nix-minecraft (🥈16 · ⭐ 610) - An attempt to better support Minecraft-related content for the Nix ecosystem. MIT"
     },
     {
       "description": null,
@@ -9258,7 +9321,7 @@
         {
           "node_type": "item",
           "title": "cynicsketch/nix-mineral",
-          "description": "(👨‍💻 16 · 🔀 27 · 📋 120 - 33% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 16 · 🔀 27 · 📋 120 - 33% open · ⏱️ 28.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9267,11 +9330,11 @@
             "id": 798960572,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T04:16:36Z",
-            "open_issues": 41,
+            "last_commit": "2026-08-31T03:27:04Z",
+            "open_issues": 40,
             "owner": "cynicsketch",
             "repo": "nix-mineral",
-            "stars": 553,
+            "stars": 554,
             "topics": [
               "hardening",
               "linux",
@@ -9301,47 +9364,17 @@
             "id": 660922433,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-28T05:14:40Z",
+            "last_commit": "2026-08-31T05:20:16Z",
             "open_issues": 44,
             "owner": "zhaofengli",
             "repo": "nix-homebrew",
-            "stars": 757,
+            "stars": 758,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
       "title": "nix-homebrew (🥈15 · ⭐ 760) - Manages Homebrew installations on macOS using nix-darwin, with pinned versions and declarative tap management. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nix-community/nixos-facter",
-          "description": "(👨‍💻 15 · 🔀 20 · 📋 120 - 50% open · ⏱️ 22.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Declarative hardware configuration for NixOS [maintainer=@brianmcgee,@Mic92]",
-            "homepage": "https://nix-community.github.io/nixos-facter/",
-            "id": 814052480,
-            "language": "Go",
-            "license": "NOASSERTION",
-            "last_commit": "2026-08-29T08:39:35Z",
-            "open_issues": 70,
-            "owner": "nix-community",
-            "repo": "nixos-facter",
-            "stars": 705,
-            "topics": [
-              "nix",
-              "nixos"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "nixos-facter (🥈15 · ⭐ 700) - Declarative hardware configuration for NixOS. ❗Unlicensed"
     },
     {
       "description": null,
@@ -9362,7 +9395,7 @@
             "open_issues": 20,
             "owner": "feel-co",
             "repo": "hjem",
-            "stars": 610,
+            "stars": 612,
             "topics": [
               "nix",
               "nixos"
@@ -9371,7 +9404,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "hjem (🥈15 · ⭐ 600) - Streamlined, elegant $HOME management with Nix. MPL-2.0"
+      "title": "hjem (🥈15 · ⭐ 610) - Streamlined, elegant $HOME management with Nix. MPL-2.0"
     },
     {
       "description": null,
@@ -9379,7 +9412,7 @@
         {
           "node_type": "item",
           "title": "nikstur/userborn",
-          "description": "(👨‍💻 10 · 🔀 8 · 📋 16 - 31% open · ⏱️ 02.08.2026)",
+          "description": "(👨‍💻 10 · 🔀 8 · 📋 17 - 29% open · ⏱️ 02.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9458,7 +9491,7 @@
             "open_issues": 20,
             "owner": "oddlama",
             "repo": "nix-topology",
-            "stars": 989,
+            "stars": 991,
             "topics": [
               "architecture",
               "diagram",
@@ -9494,7 +9527,7 @@
             "open_issues": 14,
             "owner": "musnix",
             "repo": "musnix",
-            "stars": 941,
+            "stars": 942,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -9535,7 +9568,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nixarr (🥉14 · ⭐ 410) - The Media Server Nixos Module. ❗️GPL-3.0"
+      "title": "nixarr (🥉14 · ⭐ 420) - The Media Server Nixos Module. ❗️GPL-3.0"
     },
     {
       "description": null,
@@ -9602,7 +9635,7 @@
         {
           "node_type": "item",
           "title": "nix-community/dns.nix",
-          "description": "(👨‍💻 16 · 🔀 32 · 📋 17 - 52% open · ⏱️ 11.01.2026)",
+          "description": "(👨‍💻 17 · 🔀 32 · 📋 17 - 52% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9611,8 +9644,8 @@
             "id": 174580301,
             "language": "Nix",
             "license": "MPL-2.0",
-            "last_commit": "2026-01-11T15:04:14Z",
-            "open_issues": 18,
+            "last_commit": "2026-08-30T07:54:35Z",
+            "open_issues": 17,
             "owner": "nix-community",
             "repo": "dns.nix",
             "stars": 194,
@@ -9626,7 +9659,36 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "dns.nix (🥉12 · ⭐ 190 · 💤) - A Nix DSL for DNS zone files. MPL-2.0"
+      "title": "dns.nix (🥉12 · ⭐ 190) - A Nix DSL for DNS zone files. MPL-2.0"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "nix-community/preservation",
+          "description": "(👨‍💻 3 · 🔀 21 · 📋 19 - 42% open · ⏱️ 09.09.2025)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]",
+            "homepage": "https://nix-community.github.io/preservation/",
+            "id": 797401208,
+            "language": "Nix",
+            "license": "MIT",
+            "last_commit": "2025-09-09T16:45:19Z",
+            "open_issues": 13,
+            "owner": "nix-community",
+            "repo": "preservation",
+            "stars": 352,
+            "topics": [
+              "nixos"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "Preservation (🥉10 · ⭐ 350 · 💤) - Declarative management of non-volatile system state for NixOS. MIT"
     },
     {
       "description": null,
@@ -9664,35 +9726,6 @@
       "items": [
         {
           "node_type": "item",
-          "title": "nix-community/preservation",
-          "description": "(👨‍💻 3 · 🔀 20 · 📋 19 - 42% open · ⏱️ 09.09.2025)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Nix tooling to enable declarative management of non-volatile system state. [maintainer=@WilliButz]",
-            "homepage": "https://nix-community.github.io/preservation/",
-            "id": 797401208,
-            "language": "Nix",
-            "license": "MIT",
-            "last_commit": "2025-09-09T16:45:19Z",
-            "open_issues": 13,
-            "owner": "nix-community",
-            "repo": "preservation",
-            "stars": 352,
-            "topics": [
-              "nixos"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "Preservation (🥉9 · ⭐ 350 · 💤) - Declarative management of non-volatile system state for NixOS. MIT"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
           "title": "chayleaf/nixos-router",
           "description": "(👨‍💻 2 · 🔀 7 · ⏱️ 19.11.2025)",
           "children": [],
@@ -9707,7 +9740,7 @@
             "open_issues": 3,
             "owner": "chayleaf",
             "repo": "nixos-router",
-            "stars": 408,
+            "stars": 409,
             "topics": [
               "networking",
               "nix",
@@ -9790,7 +9823,7 @@
             "id": 751640736,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-08-27T08:12:36Z",
+            "last_commit": "2026-08-31T04:27:55Z",
             "open_issues": 0,
             "owner": "krebs",
             "repo": "nether",
@@ -9817,7 +9850,7 @@
             "id": 712207805,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-23T10:20:38Z",
+            "last_commit": "2026-08-30T14:40:34Z",
             "open_issues": 3,
             "owner": "scottbot95",
             "repo": "nix-steam-servers",
@@ -9844,7 +9877,7 @@
             "id": 764364156,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-29T11:06:19Z",
+            "last_commit": "2026-08-30T11:06:44Z",
             "open_issues": 57,
             "owner": "lilyinstarlight",
             "repo": "nixos-cosmic",
@@ -9976,7 +10009,7 @@
         {
           "node_type": "item",
           "title": "nix-community/stylix",
-          "description": "(👨‍💻 210 · 🔀 350 · 📋 700 - 29% open · ⏱️ 19.08.2026)",
+          "description": "(👨‍💻 220 · 🔀 350 · 📋 700 - 29% open · ⏱️ 26.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -9989,7 +10022,7 @@
             "open_issues": 277,
             "owner": "nix-community",
             "repo": "stylix",
-            "stars": 2388,
+            "stars": 2391,
             "topics": [
               "home-manager",
               "nix",
@@ -10019,8 +10052,8 @@
             "id": 619366331,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-28T17:42:16Z",
-            "open_issues": 38,
+            "last_commit": "2026-08-31T03:10:58Z",
+            "open_issues": 39,
             "owner": "catppuccin",
             "repo": "nix",
             "stars": 756,
@@ -10037,7 +10070,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "catppuccin/nix (🥈19 · ⭐ 750) - Catppuccin for Nix brings the soothing pastel aesthetics of the Catppuccin theme to your NixOS and home-manager.. MIT"
+      "title": "catppuccin/nix (🥈18 · ⭐ 760 · 📉) - Catppuccin for Nix brings the soothing pastel aesthetics of the Catppuccin theme to your NixOS and home-manager.. MIT"
     },
     {
       "description": null,
@@ -10045,7 +10078,7 @@
         {
           "node_type": "item",
           "title": "Gerg-L/spicetify-nix",
-          "description": "(👨‍💻 40 · 🔀 46 · 📋 83 - 6% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 40 · 🔀 47 · 📋 83 - 6% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10054,7 +10087,7 @@
             "id": 725817713,
             "language": "Nix",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-23T04:41:02Z",
+            "last_commit": "2026-08-30T09:53:38Z",
             "open_issues": 6,
             "owner": "Gerg-L",
             "repo": "spicetify-nix",
@@ -10120,7 +10153,7 @@
             "open_issues": 3,
             "owner": "SenchoPens",
             "repo": "base16.nix",
-            "stars": 284,
+            "stars": 286,
             "topics": [
               "base16",
               "base16-builder",
@@ -10140,7 +10173,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "base16.nix (🥉10 · ⭐ 280 · 💤) - Flake way to theme programs in base16 colorschemes, mustache template support included. MIT"
+      "title": "base16.nix (🥉10 · ⭐ 290 · 💤) - Flake way to theme programs in base16 colorschemes, mustache template support included. MIT"
     },
     {
       "description": null,
@@ -10206,7 +10239,7 @@
         {
           "node_type": "item",
           "title": "nix-community/NUR",
-          "description": "(👨‍💻 670 · 🔀 530 · 📋 140 - 16% open · ⏱️ 24.08.2026)",
+          "description": "(👨‍💻 670 · 🔀 530 · 📋 140 - 16% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10215,11 +10248,11 @@
             "id": 123327588,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-30T07:24:33Z",
-            "open_issues": 38,
+            "last_commit": "2026-08-31T07:57:08Z",
+            "open_issues": 39,
             "owner": "nix-community",
             "repo": "NUR",
-            "stars": 1940,
+            "stars": 1941,
             "topics": [
               "nix-packages",
               "nixpkgs",
@@ -10238,7 +10271,7 @@
         {
           "node_type": "item",
           "title": "nix-community/emacs-overlay",
-          "description": "(👨‍💻 87 · 🔀 170 · 📋 310 - 2% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 88 · 🔀 180 · 📋 310 - 2% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10247,7 +10280,7 @@
             "id": 163399343,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-08-30T04:37:41Z",
+            "last_commit": "2026-08-31T04:35:37Z",
             "open_issues": 13,
             "owner": "nix-community",
             "repo": "emacs-overlay",
@@ -10265,7 +10298,7 @@
         {
           "node_type": "item",
           "title": "chaotic-cx/nyx",
-          "description": "(👨‍💻 57 · 🔀 80 · 📋 140 - 2% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 57 · 🔀 80 · 📋 140 - 2% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10274,11 +10307,11 @@
             "id": 619996867,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T07:41:41Z",
-            "open_issues": 7,
+            "last_commit": "2026-08-31T07:50:48Z",
+            "open_issues": 10,
             "owner": "chaotic-cx",
             "repo": "nyx",
-            "stars": 753,
+            "stars": 754,
             "topics": [
               "bleeding-edge",
               "nix",
@@ -10296,7 +10329,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nixpkgs-wayland",
-          "description": "(👨‍💻 36 · 🔀 45 · 📋 240 - 20% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 36 · 🔀 45 · 📋 240 - 20% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10305,7 +10338,7 @@
             "id": 154420124,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-08-30T05:24:36Z",
+            "last_commit": "2026-08-30T21:06:26Z",
             "open_issues": 55,
             "owner": "nix-community",
             "repo": "nixpkgs-wayland",
@@ -10330,7 +10363,7 @@
         {
           "node_type": "item",
           "title": "numtide/system-manager",
-          "description": "(👨‍💻 38 · 🔀 56 · 📋 110 - 31% open · ⏱️ 14.08.2026)",
+          "description": "(👨‍💻 38 · 🔀 58 · 📋 110 - 32% open · ⏱️ 14.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10339,11 +10372,11 @@
             "id": 617562687,
             "language": "Nix",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-26T13:14:28Z",
+            "last_commit": "2026-08-31T03:50:20Z",
             "open_issues": 65,
             "owner": "numtide",
             "repo": "system-manager",
-            "stars": 1700,
+            "stars": 1705,
             "topics": [
               "buildbot-numtide",
               "nix",
@@ -10424,6 +10457,42 @@
       "items": [
         {
           "node_type": "item",
+          "title": "nix-community/nixpkgs-xr",
+          "description": "(👨‍💻 11 · 🔀 11 · 📋 32 - 21% open · ⏱️ 30.08.2026)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex]",
+            "homepage": null,
+            "id": 737790546,
+            "language": "Nix",
+            "license": null,
+            "last_commit": "2026-08-31T03:52:24Z",
+            "open_issues": 7,
+            "owner": "nix-community",
+            "repo": "nixpkgs-xr",
+            "stars": 105,
+            "topics": [
+              "monado",
+              "nix",
+              "nixpkgs",
+              "opencomposite",
+              "openvr",
+              "openxr",
+              "virtual-reality",
+              "vr"
+            ]
+          },
+          "first_seen": "2026-08-28T13:38:15.161Z"
+        }
+      ],
+      "title": "nixpkgs-xr (🥈13 · ⭐ 100) - Automated packages for XR/AR/VR tools and apps for NixOS. ❗Unlicensed"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
           "title": "mirrexagon/nixpkgs-esp-dev",
           "description": "(👨‍💻 33 · 🔀 110 · 📋 60 - 38% open · ⏱️ 08.01.2026)",
           "children": [],
@@ -10450,43 +10519,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nixpkgs-esp-dev (🥈12 · ⭐ 330 · 💤) - Nix flake and overlay for ESP8266 and ESP32 development. ❗️CC0-1.0"
-    },
-    {
-      "description": null,
-      "items": [
-        {
-          "node_type": "item",
-          "title": "nix-community/nixpkgs-xr",
-          "description": "(👨‍💻 11 · 🔀 11 · 📋 32 - 21% open · ⏱️ 23.08.2026)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "Automated packages for XR/AR/VR tools and apps for NixOS [maintainer=@Scrumplex]",
-            "homepage": null,
-            "id": 737790546,
-            "language": "Nix",
-            "license": null,
-            "last_commit": "2026-08-30T03:50:38Z",
-            "open_issues": 7,
-            "owner": "nix-community",
-            "repo": "nixpkgs-xr",
-            "stars": 105,
-            "topics": [
-              "monado",
-              "nix",
-              "nixpkgs",
-              "opencomposite",
-              "openvr",
-              "openxr",
-              "virtual-reality",
-              "vr"
-            ]
-          },
-          "first_seen": "2026-08-28T13:38:15.161Z"
-        }
-      ],
-      "title": "nixpkgs-xr (🥈12 · ⭐ 100) - Automated packages for XR/AR/VR tools and apps for NixOS. ❗Unlicensed"
+      "title": "nixpkgs-esp-dev (🥉12 · ⭐ 330 · 💤) - Nix flake and overlay for ESP8266 and ESP32 development. ❗️CC0-1.0"
     },
     {
       "description": null,
@@ -10494,7 +10527,7 @@
         {
           "node_type": "item",
           "title": "bandithedoge/nixpkgs-firefox-darwin",
-          "description": "(👨‍💻 11 · 🔀 9 · 📋 9 - 33% open · ⏱️ 24.08.2026)",
+          "description": "(👨‍💻 11 · 🔀 9 · 📋 9 - 33% open · ⏱️ 31.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10503,7 +10536,7 @@
             "id": 437611148,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-30T02:54:32Z",
+            "last_commit": "2026-08-31T02:47:31Z",
             "open_issues": 3,
             "owner": "bandithedoge",
             "repo": "nixpkgs-firefox-darwin",
@@ -10513,7 +10546,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nixpkgs-firefox-darwin (🥈12 · ⭐ 74) - Automatically updated Firefox binary packages for macOS. MIT"
+      "title": "nixpkgs-firefox-darwin (🥉12 · ⭐ 74) - Automatically updated Firefox binary packages for macOS. MIT"
     },
     {
       "description": null,
@@ -10557,7 +10590,7 @@
             "id": 855116041,
             "language": "TypeScript",
             "license": "MIT",
-            "last_commit": "2026-08-30T00:01:05Z",
+            "last_commit": "2026-08-31T00:00:57Z",
             "open_issues": 5,
             "owner": "atahanyorganci",
             "repo": "nix-casks",
@@ -10766,7 +10799,7 @@
         {
           "node_type": "item",
           "title": "nix-community/vulnix",
-          "description": "(👨‍💻 29 · 🔀 47 · 📦 3 · 📋 75 - 24% open · ⏱️ 11.08.2026)",
+          "description": "(👨‍💻 30 · 🔀 46 · 📦 3 · 📋 75 - 24% open · ⏱️ 25.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10779,7 +10812,7 @@
             "open_issues": 19,
             "owner": "nix-community",
             "repo": "vulnix",
-            "stars": 837,
+            "stars": 838,
             "topics": [
               "cve",
               "nix",
@@ -10792,7 +10825,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "vulnix (🥇18 · ⭐ 830) - Vulnerability (CVE) scanner for Nix/NixOS. BSD-3"
+      "title": "vulnix (🥇19 · ⭐ 840) - Vulnerability (CVE) scanner for Nix/NixOS. BSD-3"
     },
     {
       "description": null,
@@ -10800,7 +10833,7 @@
         {
           "node_type": "item",
           "title": "NixOS/nix-security-tracker",
-          "description": "(👨‍💻 35 · 🔀 38 · 📋 350 - 27% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 35 · 🔀 38 · 📋 350 - 27% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10809,7 +10842,7 @@
             "id": 685629450,
             "language": "Python",
             "license": "MIT",
-            "last_commit": "2026-08-28T15:34:33Z",
+            "last_commit": "2026-08-31T06:53:26Z",
             "open_issues": 118,
             "owner": "NixOS",
             "repo": "nix-security-tracker",
@@ -10844,7 +10877,7 @@
             "open_issues": 114,
             "owner": "ryantm",
             "repo": "agenix",
-            "stars": 2469,
+            "stars": 2472,
             "topics": [
               "encryption",
               "nixos"
@@ -10861,7 +10894,7 @@
         {
           "node_type": "item",
           "title": "tiiuae/sbomnix",
-          "description": "(👨‍💻 19 · 🔀 36 · 📥 480 · 📋 31 - 29% open · ⏱️ 22.08.2026)",
+          "description": "(👨‍💻 19 · 🔀 36 · 📥 480 · 📋 31 - 29% open · ⏱️ 25.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10898,7 +10931,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "sbomnix (🥈15 · ⭐ 310) - A suite of utilities to help with software supply chain challenges on nix targets. ❗Unlicensed"
+      "title": "sbomnix (🥈15 · ⭐ 320) - A suite of utilities to help with software supply chain challenges on nix targets. ❗Unlicensed"
     },
     {
       "description": null,
@@ -10906,7 +10939,7 @@
         {
           "node_type": "item",
           "title": "oddlama/agenix-rekey",
-          "description": "(👨‍💻 29 · 🔀 55 · 📋 89 - 33% open · ⏱️ 26.03.2026)",
+          "description": "(👨‍💻 29 · 🔀 56 · 📋 89 - 33% open · ⏱️ 26.03.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -10981,7 +11014,7 @@
         {
           "node_type": "item",
           "title": "yaxitech/ragenix",
-          "description": "(👨‍💻 14 · 🔀 24 · 📋 20 - 70% open · ⏱️ 30.10.2025)",
+          "description": "(👨‍💻 14 · 🔀 24 · 📋 21 - 71% open · ⏱️ 30.10.2025)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11016,7 +11049,7 @@
         {
           "node_type": "item",
           "title": "fabaff/nix-security-box",
-          "description": "(🔀 22 · 📋 4 - 50% open · ⏱️ 20.08.2026)",
+          "description": "(🔀 22 · 📋 4 - 50% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11025,7 +11058,7 @@
             "id": 323747664,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-29T15:59:32Z",
+            "last_commit": "2026-08-30T10:31:49Z",
             "open_issues": 2,
             "owner": "fabaff",
             "repo": "nix-security-box",
@@ -11051,7 +11084,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "nix-security-box (🥈12 · ⭐ 410) - Tool set for Information security professionals and all others. MIT"
+      "title": "nix-security-box (🥈12 · ⭐ 400) - Tool set for Information security professionals and all others. MIT"
     },
     {
       "description": null,
@@ -11083,7 +11116,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "genealogos (🥈12 · ⭐ 55) - A Nix sbom generator. MIT"
+      "title": "genealogos (🥈12 · ⭐ 56) - A Nix sbom generator. MIT"
     },
     {
       "description": null,
@@ -11125,7 +11158,7 @@
         {
           "node_type": "item",
           "title": "oddlama/kanidm-provision",
-          "description": "(👨‍💻 6 · 🔀 16 · 📋 25 - 36% open · ⏱️ 22.11.2025)",
+          "description": "(👨‍💻 6 · 🔀 17 · 📋 25 - 36% open · ⏱️ 22.11.2025)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11263,7 +11296,7 @@
         {
           "node_type": "item",
           "title": "sopswarden",
-          "description": "(🥉6 · ⭐ 97 · 💀) - SOPS secrets management integrated with Bitwarden for NixOS. MIT",
+          "description": "(🥉6 · ⭐ 96 · 💀) - SOPS secrets management integrated with Bitwarden for NixOS. MIT",
           "children": [],
           "repo_info": {
             "archived": true,
@@ -11316,7 +11349,7 @@
         {
           "node_type": "item",
           "title": "NotAShelf/nvf",
-          "description": "(👨‍💻 160 · 🔀 230 · 📋 500 - 18% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 160 · 🔀 230 · 📋 500 - 18% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11325,11 +11358,11 @@
             "id": 596198210,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-27T20:16:39Z",
-            "open_issues": 125,
+            "last_commit": "2026-08-30T21:29:41Z",
+            "open_issues": 126,
             "owner": "NotAShelf",
             "repo": "nvf",
-            "stars": 1618,
+            "stars": 1620,
             "topics": [
               "home-manager",
               "neovim",
@@ -11351,7 +11384,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nixvim",
-          "description": "(👨‍💻 300 · 🔀 400 · 📋 980 - 11% open · ⏱️ 21.08.2026)",
+          "description": "(👨‍💻 300 · 🔀 400 · 📋 980 - 11% open · ⏱️ 27.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11360,7 +11393,7 @@
             "id": 325421844,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-29T16:36:27Z",
+            "last_commit": "2026-08-30T15:33:54Z",
             "open_issues": 157,
             "owner": "nix-community",
             "repo": "nixvim",
@@ -11376,7 +11409,7 @@
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "NixVim (🥇21 · ⭐ 2.9K · 📉) - A NeoVim distribution built with Nix modules and Nixpkgs. MIT"
+      "title": "NixVim (🥇21 · ⭐ 2.9K) - A NeoVim distribution built with Nix modules and Nixpkgs. MIT"
     },
     {
       "description": null,
@@ -11397,7 +11430,7 @@
             "open_issues": 16,
             "owner": "nix-community",
             "repo": "vscode-nix-ide",
-            "stars": 513,
+            "stars": 514,
             "topics": [
               "nix",
               "nixos",
@@ -11416,7 +11449,7 @@
         {
           "node_type": "item",
           "title": "NixOS/nix-idea",
-          "description": "(👨‍💻 18 · 🔀 30 · 📥 420 · 📋 40 - 32% open · ⏱️ 12.07.2026)",
+          "description": "(👨‍💻 18 · 🔀 30 · 📥 420 · 📋 40 - 32% open · ⏱️ 26.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11443,7 +11476,7 @@
         {
           "node_type": "item",
           "title": "nix-community/neovim-nightly-overlay",
-          "description": "(👨‍💻 30 · 🔀 73 · 📋 94 - 1% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 30 · 🔀 73 · 📋 94 - 1% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11452,7 +11485,7 @@
             "id": 289743831,
             "language": "Nix",
             "license": null,
-            "last_commit": "2026-08-30T00:02:40Z",
+            "last_commit": "2026-08-31T06:52:33Z",
             "open_issues": 1,
             "owner": "nix-community",
             "repo": "neovim-nightly-overlay",
@@ -11473,7 +11506,7 @@
         {
           "node_type": "item",
           "title": "NixNeovim/NixNeovimPlugins",
-          "description": "(👨‍💻 38 · 🔀 27 · 📦 1 · 📋 50 - 6% open · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 38 · 🔀 28 · 📦 1 · 📋 50 - 6% open · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11482,7 +11515,7 @@
             "id": 524427357,
             "language": "Nix",
             "license": "MIT",
-            "last_commit": "2026-08-27T23:47:06Z",
+            "last_commit": "2026-08-30T18:05:30Z",
             "open_issues": 8,
             "owner": "NixNeovim",
             "repo": "NixNeovimPlugins",
@@ -11539,7 +11572,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nix4vscode",
-          "description": "(👨‍💻 16 · 🔀 14 · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 16 · 🔀 14 · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11548,7 +11581,7 @@
             "id": 688503616,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-08-30T05:19:18Z",
+            "last_commit": "2026-08-31T05:43:48Z",
             "open_issues": 1,
             "owner": "nix-community",
             "repo": "nix4vscode",
@@ -11570,7 +11603,7 @@
         {
           "node_type": "item",
           "title": "nix-community/nix4nvchad",
-          "description": "(👨‍💻 15 · 🔀 15 · ⏱️ 23.08.2026)",
+          "description": "(👨‍💻 15 · 🔀 15 · ⏱️ 30.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11657,7 +11690,7 @@
         {
           "node_type": "item",
           "title": "Athena-OS/athena",
-          "description": "(👨‍💻 11 · 🔀 100 · 📥 19K · 📋 160 - 7% open · ⏱️ 22.08.2026)",
+          "description": "(👨‍💻 11 · 🔀 100 · 📥 19K · 📋 160 - 7% open · ⏱️ 24.08.2026)",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11670,7 +11703,7 @@
             "open_issues": 11,
             "owner": "Athena-OS",
             "repo": "athena",
-            "stars": 1266,
+            "stars": 1267,
             "topics": [
               "archlinux",
               "athenaos",
@@ -11710,7 +11743,7 @@
             "open_issues": 204,
             "owner": "mobile-nixos",
             "repo": "mobile-nixos",
-            "stars": 1356,
+            "stars": 1358,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -11737,7 +11770,7 @@
             "open_issues": 131,
             "owner": "nix-community",
             "repo": "nix-on-droid",
-            "stars": 2138,
+            "stars": 2137,
             "topics": [
               "android",
               "home-manager",
@@ -11796,7 +11829,7 @@
             "open_issues": 9,
             "owner": "cleverca22",
             "repo": "not-os",
-            "stars": 1010,
+            "stars": 1012,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
@@ -11850,13 +11883,13 @@
             "open_issues": 22,
             "owner": "nix-community",
             "repo": "NixNG",
-            "stars": 495,
+            "stars": 496,
             "topics": []
           },
           "first_seen": "2026-08-28T13:38:15.161Z"
         }
       ],
-      "title": "NixNG (🥉11 · ⭐ 490) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness. ❗Unlicensed"
+      "title": "NixNG (🥉11 · ⭐ 500) - A GNU/Linux distribution similar to NixOS, defining difference is a focus on containers and lightweightness. ❗Unlicensed"
     },
     {
       "description": null,
@@ -11923,7 +11956,7 @@
         {
           "node_type": "item",
           "title": "celun",
-          "description": "(🥉9 · ⭐ 70 · 💀) - The customizable embedded Linux using Nix. MIT",
+          "description": "(🥉9 · ⭐ 71 · 💀) - The customizable embedded Linux using Nix. MIT",
           "children": [],
           "repo_info": {
             "archived": false,
@@ -11984,7 +12017,7 @@
             "open_issues": 22,
             "owner": "nix-community",
             "repo": "awesome-nix",
-            "stars": 5428,
+            "stars": 5430,
             "topics": [
               "awesome",
               "awesome-list",
@@ -12013,7 +12046,7 @@
             "id": 981386382,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-24T09:06:57Z",
+            "last_commit": "2026-08-31T07:28:36Z",
             "open_issues": 0,
             "owner": "tolkonepiu",
             "repo": "best-of-nix",
@@ -12043,7 +12076,7 @@
             "id": 981386382,
             "language": null,
             "license": "CC-BY-SA-4.0",
-            "last_commit": "2026-08-24T09:06:57Z",
+            "last_commit": "2026-08-31T07:28:36Z",
             "open_issues": 0,
             "owner": "tolkonepiu",
             "repo": "best-of-nix",
@@ -12066,7 +12099,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T07:43:03.980Z",
+    "last_updated": "2026-08-31T07:57:27.929Z",
     "original_repository_info": {
       "archived": false,
       "description": "🏆  A ranked list of the best resources in the Nix community. Updated weekly.",
@@ -12074,7 +12107,7 @@
       "id": 981386382,
       "language": null,
       "license": "CC-BY-SA-4.0",
-      "last_commit": "2026-08-24T09:06:57Z",
+      "last_commit": "2026-08-31T07:28:36Z",
       "open_issues": 0,
       "owner": "tolkonepiu",
       "repo": "best-of-nix",
@@ -12090,7 +12123,7 @@
         "nixos"
       ]
     },
-    "original_repository_sha": "5d583e4b2e7f2efab850c18ee97e0af1af0d6fa4",
+    "original_repository_sha": "bf4ec0df55420dd10de2a43d1e9850a67e1fc897",
     "enhanced_repository": "enhansome/enhansome-best-of-nix",
     "enhanced_repository_description": null,
     "title": "Awesome best of nix with stars"
